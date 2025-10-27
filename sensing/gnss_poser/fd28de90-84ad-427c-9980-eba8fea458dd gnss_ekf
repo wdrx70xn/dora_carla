@@ -1,0 +1,14 @@
+[38;2;248;248;242m  [0m[2m[38;2;248;248;242m[2m2024-11-06T13:20:09.973892Z[0m[0m[38;2;248;248;242m [0m[31m[38;2;248;248;242m[31mERROR[0m[0m[38;2;248;248;242m [0m[1;31m[38;2;248;248;242m[31m[1;31mdora_node_api_c[0m[0m[31m[38;2;248;248;242m[31m: [0m[31m[38;2;248;248;242m[31mfailed to initialize node[0m
+[38;2;248;248;242m[31m[0m
+[38;2;248;248;242m[31mCaused by:[0m
+[38;2;248;248;242m[31m   0: failed to init event stream[0m
+[38;2;248;248;242m[31m   1: subscribe failed: Some nodes exited before subscribing to dora: {NodeId("control")}[0m
+[38;2;248;248;242m[31m[0m
+[38;2;248;248;242m[31m      This is typically happens when an initialization error occurs[0m
+[38;2;248;248;242m[31m                      in the node or operator. To check the output of the failed[0m
+[38;2;248;248;242m[31m                      nodes, run `dora logs fd28de90-84ad-427c-9980-eba8fea458dd control`.[0m
+[38;2;248;248;242m[31m[0m
+[38;2;248;248;242m[31mLocation:[0m
+[38;2;248;248;242m[31m    apis/rust/node/src/event_stream/mod.rs:90:17[0m[0m
+[38;2;248;248;242m    [0m[2;3m[38;2;248;248;242m[2;3m[2;3mat[0m[0m[38;2;248;248;242m apis/c/node/src/lib.rs:35[0m
+

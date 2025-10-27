@@ -1,0 +1,430 @@
+euclidean_cluster for dora 
+euclidean_cluster: [c node] dora context initialized
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 26
+Point cloud clustering completed. Cluster count: 1
+Sending LidarRawObject data. Object count: 1
+Sending rgb_pointcloud data. Point count: 18
+Successfully sent pointcloud data. Point count: 18
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 25
+Point cloud clustering completed. Cluster count: 1
+Sending LidarRawObject data. Object count: 1
+Sending rgb_pointcloud data. Point count: 17
+Successfully sent pointcloud data. Point count: 17
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 24
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 30
+Point cloud clustering completed. Cluster count: 1
+Sending LidarRawObject data. Object count: 1
+Sending rgb_pointcloud data. Point count: 13
+Successfully sent pointcloud data. Point count: 13
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 15
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 6
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 11
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 6
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 8
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 6
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 8
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 10
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 5
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 7
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 10
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 10
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 8
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 9
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 8
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 6
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 8
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 8
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 5
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 11
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 9
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 8
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 8
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 5
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 7
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 7
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 8
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 7
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 7
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 11
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 8
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 8
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 6
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 6
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 6
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 12
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 9
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 6
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 6
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 10
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 13
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 10
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 11
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 10
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 13
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 14
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 10
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 10
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 13
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 10
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 9
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 14
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 12
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 5
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 13
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 11
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 11
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 11
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 14
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 10
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 9
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 9
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 8
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 6
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 7
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 7
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 10
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 7
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 9
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 11
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 8
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 8
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 5
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 8
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 10
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 10
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 6
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 8
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 10
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 8
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+Received input pointcloud data. Seq: 0, Stamp: 0, Point count: 7
+Point cloud clustering completed. Cluster count: 0
+No clusters to publish LidarRawObject data.
+Sending rgb_pointcloud data. Point count: 0
+Successfully sent pointcloud data. Point count: 0
+euclidean_cluster: [c node] received stop event
+euclidean_cluster: [c node] ERROR: unexpected end of event
+exit euclidean_cluster ...

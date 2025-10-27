@@ -1,0 +1,5 @@
+euclidean_cluster for dora 
+euclidean_cluster: [c node] dora context initialized
+euclidean_cluster: [c node] received stop event
+euclidean_cluster: [c node] ERROR: unexpected end of event
+exit euclidean_cluster ...

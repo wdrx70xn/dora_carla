@@ -1,0 +1,10 @@
+id 1
+velocity 7.2
+road_width 6
+aeb_front 0.0
+aeb_back 0.0
+aeb_left 0.0
+aeb_right 0.0
+start_s 0
+end_s 400
+

@@ -1,0 +1,15 @@
+Starting UDP receiver on port 12345
+  [2m2025-04-19T08:03:34.735433Z[0m [31mERROR[0m [1;31mdora_node_api_c[0m[31m: [31mfailed to initialize node
+
+Caused by:
+   0: failed to init event stream
+   1: failed to register node with dora-daemon
+   2: version mismatch: message format v0.3.2 is not compatible with expected message format v0.4.2
+
+Location:
+    apis/rust/node/src/daemon_connection/mod.rs:61:30[0m
+    [2;3mat[0m apis/c/node/src/lib.rs:35
+
+Dora context initialized successfully.
+Bind failed: Cannot assign requested address
+Socket created successfully.

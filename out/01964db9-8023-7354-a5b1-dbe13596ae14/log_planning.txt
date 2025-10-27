@@ -1,0 +1,8 @@
+node_routing_core
+Received control message with type: Is_stop
+Received control message with type: Is_stop
+Received control message with type: Is_stop
+Received control message with type: Is_stop
+[c node] received stop event
+[c node] ERROR: unexpected end of event
+END node_routing_core

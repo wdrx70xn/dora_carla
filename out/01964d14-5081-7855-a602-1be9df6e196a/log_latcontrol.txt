@@ -1,0 +1,2 @@
+[c node] received stop event
+END lat_control

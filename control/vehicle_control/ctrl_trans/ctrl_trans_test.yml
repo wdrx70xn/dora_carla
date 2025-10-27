@@ -1,0 +1,10 @@
+#control
+nodes:
+  - id: ctrl_trans
+    custom:	
+      source: build/ctrl_trans
+      inputs:
+        tick: dora/timer/millis/100
+        # SteeringCmd: latcontrol/SteeringCmd
+        # TrqBreCmd: lon_control/TrqBreCmd
+

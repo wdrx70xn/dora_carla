@@ -1,0 +1,4 @@
+HELLO lon_control
+[c node] received unexpected event: 2
+[c node] ERROR: unexpected end of event
+GOODBYE lon_control

@@ -1,0 +1,1325 @@
+Received cur_pose_all: x = -6.70218e-14, y = -4.07272e-13, theta = 0.02
+my steer : 1.57617
+my steer : 1.58576
+Received cur_pose_all: x = -6.70218e-14, y = -4.07272e-13, theta = 0.02
+my steer : 1.57617
+my steer : -1.36839
+Received cur_pose_all: x = -6.70218e-14, y = -4.07272e-13, theta = 0.02
+my steer : 1.57617
+my steer : 1.58576
+Received cur_pose_all: x = -6.70218e-14, y = -4.07272e-13, theta = 0.02
+my steer : 1.57617
+my steer : -1.36839
+Received cur_pose_all: x = -6.70218e-14, y = -4.07272e-13, theta = 0.02
+my steer : 1.57617
+my steer : -1.36839
+Received cur_pose_all: x = -6.70218e-14, y = -4.07272e-13, theta = 0.02
+my steer : 1.57617
+my steer : -1.35457
+Received cur_pose_all: x = -4.77695e-14, y = -7.93749e-14, theta = 0.02
+my steer : 1.48564
+my steer : -1.36839
+Received cur_pose_all: x = -4.77695e-14, y = -7.93749e-14, theta = 0.02
+my steer : 1.48564
+my steer : 1.58576
+Received cur_pose_all: x = -4.77695e-14, y = -7.93749e-14, theta = 0.02
+my steer : 1.48564
+my steer : 1.58576
+Received cur_pose_all: x = 6.10387e-05, y = -4.87359e-13, theta = 0.03
+my steer : 0.0858279
+my steer : 1.58562
+Received cur_pose_all: x = 6.10387e-05, y = -4.87359e-13, theta = 0.03
+my steer : 0.0858279
+my steer : -1.36839
+Received cur_pose_all: x = 6.10387e-05, y = -4.87359e-13, theta = 0.03
+my steer : 0.0858279
+my steer : 1.58562
+Received cur_pose_all: x = 6.10387e-05, y = -4.87359e-13, theta = 0.03
+my steer : 0.0858279
+my steer : 1.58562
+Received cur_pose_all: x = 6.10387e-05, y = -1.12235e-13, theta = 0.03
+my steer : 0.0858279
+my steer : 1.58562
+Received cur_pose_all: x = 6.10387e-05, y = -1.12235e-13, theta = 0.03
+my steer : 0.0858279
+my steer : 1.58562
+Received cur_pose_all: x = 6.10387e-05, y = -1.12235e-13, theta = 0.03
+my steer : 0.0858279
+my steer : 1.58562
+Received cur_pose_all: x = -1.02034e-13, y = -5.61729e-13, theta = 0.02
+my steer : 1.57431
+my steer : 1.58576
+Received cur_pose_all: x = -1.02034e-13, y = -5.61729e-13, theta = 0.02
+my steer : 1.57431
+my steer : 1.58576
+Received cur_pose_all: x = -1.02034e-13, y = -5.61729e-13, theta = 0.02
+my steer : 1.57431
+my steer : 1.58576
+Received cur_pose_all: x = -5.64117e-14, y = -4.67276e-13, theta = 0.02
+my steer : 1.58021
+my steer : 1.58576
+Received cur_pose_all: x = -5.64117e-14, y = -4.67276e-13, theta = 0.02
+my steer : 1.58021
+my steer : 1.58576
+Received cur_pose_all: x = -5.64117e-14, y = -4.67276e-13, theta = 0.02
+my steer : 1.58021
+my steer : 1.58576
+Received cur_pose_all: x = -5.74822e-14, y = -1.43435e-13, theta = 0.02
+my steer : 1.53732
+my steer : 1.58576
+Received cur_pose_all: x = -5.74822e-14, y = -1.43435e-13, theta = 0.02
+my steer : 1.53732
+my steer : 1.58576
+Received cur_pose_all: x = -5.74822e-14, y = -1.43435e-13, theta = 0.02
+my steer : 1.53732
+my steer : 1.58576
+Received cur_pose_all: x = 8.45554e-15, y = -4.49533e-14, theta = 0.02
+my steer : 1.57792
+my steer : 1.58576
+Received cur_pose_all: x = 8.45554e-15, y = -4.49533e-14, theta = 0.02
+my steer : 1.57792
+my steer : 1.58576
+Received cur_pose_all: x = -5.24852e-14, y = -5.70951e-14, theta = 0.02
+my steer : 1.3829
+my steer : 1.58576
+Received cur_pose_all: x = -5.24852e-14, y = -5.70951e-14, theta = 0.02
+my steer : 1.3829
+my steer : -1.36839
+Received cur_pose_all: x = -2.96743e-14, y = -9.86858e-15, theta = 0.02
+my steer : 0.766762
+my steer : 1.58576
+Received cur_pose_all: x = -2.96743e-14, y = -9.86858e-15, theta = 0.02
+my steer : 0.766762
+my steer : 1.58576
+Received cur_pose_all: x = -2.96743e-14, y = -9.86858e-15, theta = 0.02
+my steer : 0.766762
+my steer : 1.58576
+Received cur_pose_all: x = -1.01736e-14, y = -6.05534e-13, theta = 0.02
+my steer : 1.58549
+my steer : 1.58576
+Received cur_pose_all: x = -1.01736e-14, y = -6.05534e-13, theta = 0.02
+my steer : 1.58549
+my steer : 1.58576
+Received cur_pose_all: x = -1.01736e-14, y = -6.05534e-13, theta = 0.02
+my steer : 1.58549
+my steer : 1.58576
+Received cur_pose_all: x = -5.47458e-16, y = -6.68959e-13, theta = 0.02
+my steer : 1.58575
+my steer : 1.58576
+Received cur_pose_all: x = -5.47458e-16, y = -6.68959e-13, theta = 0.02
+my steer : 1.58575
+my steer : 1.58576
+Received cur_pose_all: x = -5.47458e-16, y = -6.68959e-13, theta = 0.02
+my steer : 1.58575
+my steer : 1.58576
+Received cur_pose_all: x = -2.08634e-14, y = -2.18268e-13, theta = 0.02
+my steer : 1.58205
+my steer : 1.58576
+Received cur_pose_all: x = -2.08634e-14, y = -2.18268e-13, theta = 0.02
+my steer : 1.58205
+my steer : 1.58576
+Received cur_pose_all: x = -2.08634e-14, y = -2.18268e-13, theta = 0.02
+my steer : 1.58205
+my steer : 1.58576
+Received cur_pose_all: x = -8.78647e-14, y = -4.47656e-13, theta = 0.02
+my steer : 1.57259
+my steer : 1.58576
+Received cur_pose_all: x = -8.78647e-14, y = -4.47656e-13, theta = 0.02
+my steer : 1.57259
+my steer : 1.58576
+Received cur_pose_all: x = -8.78647e-14, y = -4.47656e-13, theta = 0.02
+my steer : 1.57259
+my steer : 1.58576
+Received cur_pose_all: x = -7.67165e-15, y = -5.62364e-13, theta = 0.02
+my steer : 1.58555
+my steer : 1.58576
+Received cur_pose_all: x = -7.67165e-15, y = -5.62364e-13, theta = 0.02
+my steer : 1.58555
+my steer : 1.58576
+Received cur_pose_all: x = -7.67165e-15, y = -5.62364e-13, theta = 0.02
+my steer : 1.58555
+my steer : 1.58576
+Received cur_pose_all: x = -7.67165e-15, y = -5.62364e-13, theta = 0.02
+my steer : 1.58555
+my steer : 1.58576
+Received cur_pose_all: x = -7.67165e-15, y = -5.62364e-13, theta = 0.02
+my steer : 1.58555
+my steer : 1.58576
+Received cur_pose_all: x = -7.4673e-14, y = -3.37005e-13, theta = 0.02
+my steer : 1.56934
+my steer : 1.58576
+Received cur_pose_all: x = -7.4673e-14, y = -3.37005e-13, theta = 0.02
+my steer : 1.56934
+my steer : 1.58576
+Received cur_pose_all: x = -7.4673e-14, y = -3.37005e-13, theta = 0.02
+my steer : 1.56934
+my steer : 1.58576
+Received cur_pose_all: x = -2.79876e-14, y = -5.66421e-13, theta = 0.03
+my steer : 1.58407
+my steer : 1.58562
+Received cur_pose_all: x = -2.79876e-14, y = -5.66421e-13, theta = 0.03
+my steer : 1.58407
+my steer : 1.58562
+Received cur_pose_all: x = -6.14882e-14, y = -2.26354e-13, theta = 0.03
+my steer : 1.5602
+my steer : 1.58562
+Received cur_pose_all: x = -6.14882e-14, y = -2.26354e-13, theta = 0.03
+my steer : 1.5602
+my steer : 1.58562
+Received cur_pose_all: x = -6.14882e-14, y = -2.26354e-13, theta = 0.03
+my steer : 1.5602
+my steer : 1.58562
+Received cur_pose_all: x = -6.14882e-14, y = -2.26354e-13, theta = 0.03
+my steer : 1.5602
+my steer : 1.58562
+Received cur_pose_all: x = -6.14882e-14, y = -2.26354e-13, theta = 0.03
+my steer : 1.5602
+my steer : 1.58562
+Received cur_pose_all: x = -6.14882e-14, y = -2.26354e-13, theta = 0.03
+my steer : 1.5602
+my steer : 1.58562
+Received cur_pose_all: x = -6.14882e-14, y = -2.26354e-13, theta = 0.03
+my steer : 1.5602
+my steer : 1.58562
+Received cur_pose_all: x = -6.14882e-14, y = -2.26354e-13, theta = 0.03
+my steer : 1.5602
+my steer : 1.58562
+Received cur_pose_all: x = -6.14882e-14, y = -2.26354e-13, theta = 0.03
+my steer : 1.5602
+my steer : 1.58562
+Received cur_pose_all: x = 1.94756e-15, y = -1.71042e-13, theta = 0.03
+my steer : 1.58577
+my steer : 1.58562
+Received cur_pose_all: x = 1.94756e-15, y = -1.71042e-13, theta = 0.03
+my steer : 1.58577
+my steer : 1.58562
+Received cur_pose_all: x = 1.94756e-15, y = -1.71042e-13, theta = 0.03
+my steer : 1.58577
+my steer : 1.58562
+Received cur_pose_all: x = 1.94756e-15, y = -1.71042e-13, theta = 0.03
+my steer : 1.58577
+my steer : 1.58562
+Received cur_pose_all: x = 1.94756e-15, y = -1.71042e-13, theta = 0.03
+my steer : 1.58577
+my steer : 1.58562
+Received cur_pose_all: x = 1.94756e-15, y = -1.71042e-13, theta = 0.03
+my steer : 1.58577
+my steer : -1.36839
+Received cur_pose_all: x = -0.00146493, y = 0.00533545, theta = 0.2
+my steer : -1.58455
+my steer : -1.57427
+Received cur_pose_all: x = -0.00146493, y = 0.00533545, theta = 0.2
+my steer : -1.58455
+my steer : -1.57427
+Received cur_pose_all: x = -0.00146493, y = 0.00533545, theta = 0.2
+my steer : -1.58455
+my steer : -1.57427
+Received cur_pose_all: x = -0.00878957, y = 0.0213418, theta = 0.68
+my steer : -1.56124
+my steer : -1.43145
+Received cur_pose_all: x = -0.00878957, y = 0.0213418, theta = 0.68
+my steer : -1.56124
+my steer : -1.43145
+Received cur_pose_all: x = -0.00878957, y = 0.0213418, theta = 0.68
+my steer : -1.56124
+my steer : -1.36839
+Received cur_pose_all: x = -0.0209973, y = 0.0446237, theta = 1.28
+my steer : -1.32892
+my steer : -0.745782
+Received cur_pose_all: x = -0.0209973, y = 0.0446237, theta = 1.28
+my steer : -1.32892
+my steer : -0.745782
+Received cur_pose_all: x = -0.0209973, y = 0.0446237, theta = 1.28
+my steer : -1.32892
+my steer : -1.36839
+Received cur_pose_all: x = -0.0351583, y = 0.0749388, theta = 1.79
+my steer : -0.588235
+my steer : 0.587611
+Received cur_pose_all: x = -0.0351583, y = 0.0749388, theta = 1.79
+my steer : -0.588235
+my steer : 0.587611
+Received cur_pose_all: x = -0.0479153, y = 0.109377, theta = 2.15
+my steer : 0.457977
+my steer : 1.18972
+Received cur_pose_all: x = -0.0479153, y = 0.109377, theta = 2.15
+my steer : 0.457977
+my steer : 1.18972
+Received cur_pose_all: x = -0.0479153, y = 0.109377, theta = 2.15
+my steer : 0.457977
+my steer : 1.18972
+Received cur_pose_all: x = -0.058475, y = 0.147452, theta = 2.43
+my steer : 1.07038
+my steer : 1.41416
+Received cur_pose_all: x = -0.058475, y = 0.147452, theta = 2.43
+my steer : 1.07038
+my steer : 1.41416
+Received cur_pose_all: x = -0.058475, y = 0.147452, theta = 2.43
+my steer : 1.07038
+my steer : 1.41416
+Received cur_pose_all: x = -0.0691568, y = 0.186983, theta = 2.81
+my steer : 1.42835
+my steer : 1.55325
+Received cur_pose_all: x = -0.0691568, y = 0.186983, theta = 2.81
+my steer : 1.42835
+my steer : -1.36839
+Received cur_pose_all: x = -0.0814866, y = 0.226514, theta = 3.29
+my steer : 1.57463
+my steer : 1.57952
+Received cur_pose_all: x = -0.0814866, y = 0.226514, theta = 3.29
+my steer : 1.57463
+my steer : 1.57952
+Received cur_pose_all: x = -0.0814866, y = 0.226514, theta = 3.29
+my steer : 1.57463
+my steer : 1.57952
+Received cur_pose_all: x = -0.0954034, y = 0.266045, theta = 3.77
+my steer : -1.40208
+my steer : 1.45702
+Received cur_pose_all: x = -0.0954034, y = 0.266045, theta = 3.77
+my steer : -1.40208
+my steer : 1.45702
+Received cur_pose_all: x = -0.0954034, y = 0.266045, theta = 3.77
+my steer : -1.40208
+my steer : 1.45702
+Received cur_pose_all: x = -0.109259, y = 0.308486, theta = 4.21
+my steer : -0.799568
+my steer : -1.3783
+Received cur_pose_all: x = -0.109259, y = 0.308486, theta = 4.21
+my steer : -0.799568
+my steer : -1.3783
+Received cur_pose_all: x = -0.109259, y = 0.308486, theta = 4.21
+my steer : -0.799568
+my steer : -1.3783
+Received cur_pose_all: x = -0.123359, y = 0.352382, theta = 4.61
+my steer : 0.543723
+my steer : -1.05181
+Received cur_pose_all: x = -0.123359, y = 0.352382, theta = 4.61
+my steer : 0.543723
+my steer : -1.05181
+Received cur_pose_all: x = -0.123359, y = 0.352382, theta = 4.61
+my steer : 0.543723
+my steer : -1.05181
+Received cur_pose_all: x = -0.135079, y = 0.399431, theta = 4.8
+my steer : 1.17275
+my steer : -0.936508
+Received cur_pose_all: x = -0.135079, y = 0.399431, theta = 4.8
+my steer : 1.17275
+my steer : -0.936508
+Received cur_pose_all: x = -0.135079, y = 0.399431, theta = 4.8
+my steer : 1.17275
+my steer : -0.936508
+Received cur_pose_all: x = -0.142342, y = 0.44842, theta = 4.78
+my steer : 1.38424
+my steer : -1.24087
+Received cur_pose_all: x = -0.142342, y = 0.44842, theta = 4.78
+my steer : 1.38424
+my steer : -1.24087
+Received cur_pose_all: x = -0.142342, y = 0.44842, theta = 4.78
+my steer : 1.38424
+my steer : -1.24087
+Received cur_pose_all: x = -0.14515, y = 0.498622, theta = 4.6
+my steer : 1.51017
+my steer : -1.55636
+Received cur_pose_all: x = -0.14515, y = 0.498622, theta = 4.6
+my steer : 1.51017
+my steer : -1.55636
+Received cur_pose_all: x = -0.14515, y = 0.498622, theta = 4.6
+my steer : 1.51017
+my steer : -1.55636
+Received cur_pose_all: x = -0.14515, y = 0.498622, theta = 4.6
+my steer : 1.51017
+my steer : -1.55636
+Received cur_pose_all: x = -0.143868, y = 0.549551, theta = 4.28
+my steer : 1.57693
+my steer : -1.4106
+Received cur_pose_all: x = -0.143868, y = 0.549551, theta = 4.28
+my steer : 1.57693
+my steer : -1.4106
+Received cur_pose_all: x = -0.143868, y = 0.549551, theta = 4.28
+my steer : 1.57693
+my steer : -1.4106
+Received cur_pose_all: x = -0.138436, y = 0.601208, theta = 3.82
+my steer : 1.58303
+my steer : 0.372216
+Received cur_pose_all: x = -0.138436, y = 0.601208, theta = 3.82
+my steer : 1.58303
+my steer : 0.372216
+Received cur_pose_all: x = -0.138436, y = 0.601208, theta = 3.82
+my steer : 1.58303
+my steer : 0.372216
+Received cur_pose_all: x = -0.128914, y = 0.652622, theta = 3.21
+my steer : 1.53962
+my steer : 1.48119
+Received cur_pose_all: x = -0.128914, y = 0.652622, theta = 3.21
+my steer : 1.53962
+my steer : 1.48119
+Received cur_pose_all: x = -0.128914, y = 0.652622, theta = 3.21
+my steer : 1.53962
+my steer : 1.48119
+Received cur_pose_all: x = -0.116523, y = 0.705491, theta = 2.59
+my steer : 1.34312
+my steer : 1.57617
+Received cur_pose_all: x = -0.116523, y = 0.705491, theta = 2.59
+my steer : 1.34312
+my steer : 1.57617
+Received cur_pose_all: x = -0.116523, y = 0.705491, theta = 2.59
+my steer : 1.34312
+my steer : 1.57617
+Received cur_pose_all: x = -0.105719, y = 0.761271, theta = 2.21
+my steer : 1.06454
+my steer : 1.44845
+Received cur_pose_all: x = -0.105719, y = 0.761271, theta = 2.21
+my steer : 1.06454
+my steer : 1.44845
+Received cur_pose_all: x = -0.100103, y = 0.819233, theta = 2.12
+my steer : -0.337082
+my steer : 0.592289
+Received cur_pose_all: x = -0.100103, y = 0.819233, theta = 2.12
+my steer : -0.337082
+my steer : 0.592289
+Received cur_pose_all: x = -0.100103, y = 0.819233, theta = 2.12
+my steer : -0.337082
+my steer : 0.592289
+Received cur_pose_all: x = -0.100592, y = 0.878408, theta = 2.26
+my steer : -0.311627
+my steer : 0.677872
+Received cur_pose_all: x = -0.100592, y = 0.878408, theta = 2.26
+my steer : -0.311627
+my steer : 0.677872
+Received cur_pose_all: x = -0.100592, y = 0.878408, theta = 2.26
+my steer : -0.311627
+my steer : 0.677872
+Received cur_pose_all: x = -0.106635, y = 0.938311, theta = 2.58
+my steer : -0.496973
+my steer : 0.4917
+Received cur_pose_all: x = -0.106635, y = 0.938311, theta = 2.58
+my steer : -0.496973
+my steer : 0.4917
+Received cur_pose_all: x = -0.106635, y = 0.938311, theta = 2.58
+my steer : -0.496973
+my steer : 0.4917
+Received cur_pose_all: x = -0.117927, y = 0.997728, theta = 3.07
+my steer : -0.434744
+my steer : -0.0459628
+Received cur_pose_all: x = -0.117927, y = 0.997728, theta = 3.07
+my steer : -0.434744
+my steer : -0.0459628
+Received cur_pose_all: x = -0.134102, y = 1.05715, theta = 3.7
+my steer : 0.283144
+my steer : -1.36839
+Received cur_pose_all: x = -0.134102, y = 1.05715, theta = 3.7
+my steer : 0.283144
+my steer : -0.835492
+Received cur_pose_all: x = -0.134102, y = 1.05715, theta = 3.7
+my steer : 0.283144
+my steer : -0.835492
+Received cur_pose_all: x = -0.152597, y = 1.11826, theta = 4.26
+my steer : 0.315611
+my steer : -1.2288
+Received cur_pose_all: x = -0.152597, y = 1.11826, theta = 4.26
+my steer : 0.315611
+my steer : -1.2288
+Received cur_pose_all: x = -0.152597, y = 1.11826, theta = 4.69
+my steer : -0.800044
+my steer : -1.49979
+Received cur_pose_all: x = -0.170237, y = 1.18156, theta = 4.69
+my steer : -0.259007
+my steer : -1.39401
+Received cur_pose_all: x = -0.170237, y = 1.18156, theta = 4.69
+my steer : -0.259007
+my steer : -1.39401
+Received cur_pose_all: x = -0.186107, y = 1.24704, theta = 4.98
+my steer : -0.726663
+my steer : -1.46088
+Received cur_pose_all: x = -0.186107, y = 1.24704, theta = 4.98
+my steer : -0.726663
+my steer : -1.46088
+Received cur_pose_all: x = -0.186107, y = 1.24704, theta = 4.98
+my steer : -0.726663
+my steer : -1.46088
+Received cur_pose_all: x = -0.197033, y = 1.31446, theta = 4.97
+my steer : -1.13242
+my steer : -1.39117
+Received cur_pose_all: x = -0.197033, y = 1.31446, theta = 4.97
+my steer : -1.13242
+my steer : -1.39117
+Received cur_pose_all: x = -0.20216, y = 1.38309, theta = 4.74
+my steer : -1.4811
+my steer : -1.56072
+Received cur_pose_all: x = -0.20216, y = 1.38309, theta = 4.74
+my steer : -1.4811
+my steer : -1.56072
+Received cur_pose_all: x = -0.20216, y = 1.38309, theta = 4.74
+my steer : -1.4811
+my steer : -1.56072
+Received cur_pose_all: x = -0.201489, y = 1.45197, theta = 4.31
+my steer : -1.57173
+my steer : -1.55555
+Received cur_pose_all: x = -0.201489, y = 1.45197, theta = 4.31
+my steer : -1.57173
+my steer : -0.919385
+Received cur_pose_all: x = -0.19508, y = 1.52109, theta = 3.69
+my steer : -0.810732
+my steer : -1.01381
+Received cur_pose_all: x = -0.19508, y = 1.52109, theta = 3.69
+my steer : -0.810732
+my steer : -1.01381
+Received cur_pose_all: x = -0.19508, y = 1.52109, theta = 3.69
+my steer : -0.810732
+my steer : -1.01381
+Received cur_pose_all: x = -0.182933, y = 1.58924, theta = 2.89
+my steer : 1.36659
+my steer : 1.14121
+Received cur_pose_all: x = -0.182933, y = 1.58924, theta = 2.89
+my steer : 1.36659
+my steer : 1.14121
+Received cur_pose_all: x = -0.182933, y = 1.58924, theta = 2.89
+my steer : 1.36659
+my steer : 1.14121
+Received cur_pose_all: x = -0.165049, y = 1.6552, theta = 1.89
+my steer : 1.53922
+my steer : 1.5815
+Received cur_pose_all: x = -0.165049, y = 1.6552, theta = 1.89
+my steer : 1.53922
+my steer : 1.5815
+Received cur_pose_all: x = -0.142647, y = 1.72165, theta = 0.87
+my steer : 0.13719
+my steer : 0.743274
+Received cur_pose_all: x = -0.142647, y = 1.72165, theta = 0.87
+my steer : 0.13719
+my steer : 0.743274
+Received cur_pose_all: x = -0.142647, y = 1.72165, theta = 0.87
+my steer : 0.13719
+my steer : 0.743274
+Received cur_pose_all: x = -0.142647, y = 1.72165, theta = 0.87
+my steer : 0.13719
+my steer : 0.743274
+Received cur_pose_all: x = -0.142647, y = 1.72165, theta = 0.09
+my steer : -1.32995
+my steer : -1.08222
+Received cur_pose_all: x = -0.120796, y = 1.79198, theta = 0.09
+my steer : -1.38631
+my steer : -1.22568
+Received cur_pose_all: x = -0.120796, y = 1.79198, theta = 0.09
+my steer : -1.38631
+my steer : -1.22568
+Received cur_pose_all: x = -0.103949, y = 1.86547, theta = 359.67
+my steer : 1.16372
+my steer : 1.31983
+Received cur_pose_all: x = -0.103949, y = 1.86547, theta = 359.67
+my steer : 1.16372
+my steer : 1.31983
+Received cur_pose_all: x = -0.103949, y = 1.86547, theta = 359.67
+my steer : 1.16372
+my steer : 1.31983
+Received cur_pose_all: x = -0.0928398, y = 1.94089, theta = 359.44
+my steer : 1.56016
+my steer : 0.94794
+Received cur_pose_all: x = -0.0928398, y = 1.94089, theta = 359.44
+my steer : 1.56016
+my steer : 0.94794
+Received cur_pose_all: x = -0.0928398, y = 1.94089, theta = 359.44
+my steer : 1.56016
+my steer : 0.94794
+Received cur_pose_all: x = -0.0849658, y = 2.01753, theta = 359.29
+my steer : 1.47151
+my steer : 1.48183
+Received cur_pose_all: x = -0.0849658, y = 2.01753, theta = 359.29
+my steer : 1.47151
+my steer : 1.48183
+Received cur_pose_all: x = -0.285112, y = 2.65341, theta = 7.95
+my steer : 1.53473
+my steer : 1.57071
+Received cur_pose_all: x = -0.285112, y = 2.65341, theta = 7.95
+my steer : 1.53473
+my steer : 1.57071
+Received cur_pose_all: x = -0.285112, y = 2.65341, theta = 7.95
+my steer : 1.53473
+my steer : 1.42645
+Received cur_pose_all: x = -0.335468, y = 2.70798, theta = 9.68
+my steer : 0.949026
+my steer : 0.377455
+Received cur_pose_all: x = -0.335468, y = 2.70798, theta = 9.68
+my steer : 0.949026
+my steer : 0.377455
+Received cur_pose_all: x = -0.388755, y = 2.76085, theta = 11.43
+my steer : -1.54342
+my steer : -1.58579
+Received cur_pose_all: x = -0.388755, y = 2.76085, theta = 11.43
+my steer : -1.54342
+my steer : -1.58579
+Received cur_pose_all: x = -0.443995, y = 2.81566, theta = 13.07
+my steer : 1.2871
+my steer : -0.021753
+Received cur_pose_all: x = -0.443995, y = 2.81566, theta = 13.07
+my steer : 1.2871
+my steer : -0.726972
+Received cur_pose_all: x = -0.497709, y = 2.87799, theta = 14.34
+my steer : 1.56961
+my steer : -1.36839
+Received cur_pose_all: x = -0.497709, y = 2.87799, theta = 14.34
+my steer : 1.56961
+my steer : 1.5445
+Received cur_pose_all: x = -0.497709, y = 2.87799, theta = 14.34
+my steer : 1.56961
+my steer : 1.5445
+Received cur_pose_all: x = -0.547395, y = 2.94541, theta = 15.4
+my steer : 1.0688
+my steer : 0.899956
+Received cur_pose_all: x = -0.547395, y = 2.94541, theta = 15.4
+my steer : 1.0688
+my steer : 0.899956
+Received cur_pose_all: x = -1.19624, y = 3.51533, theta = 33.73
+my steer : -0.389925
+my steer : 1.47066
+Received cur_pose_all: x = -1.19624, y = 3.51533, theta = 33.73
+my steer : -0.389925
+my steer : 1.47066
+Received cur_pose_all: x = -1.27498, y = 3.55801, theta = 35.62
+my steer : -0.462305
+my steer : -1.42369
+Received cur_pose_all: x = -1.27498, y = 3.55801, theta = 35.62
+my steer : -0.462305
+my steer : -1.42369
+Received cur_pose_all: x = -1.27498, y = 3.55801, theta = 35.62
+my steer : -0.462305
+my steer : -1.42369
+Received cur_pose_all: x = -1.35579, y = 3.59609, theta = 37.59
+my steer : 1.4985
+my steer : -0.826004
+Received cur_pose_all: x = -1.35579, y = 3.59609, theta = 37.59
+my steer : 1.4985
+my steer : -0.826004
+Received cur_pose_all: x = -1.43899, y = 3.63198, theta = 39.49
+my steer : -1.52435
+my steer : 1.58551
+Received cur_pose_all: x = -1.43899, y = 3.63198, theta = 39.49
+my steer : -1.52435
+my steer : 1.58551
+Received cur_pose_all: x = -1.43899, y = 3.63198, theta = 39.49
+my steer : -1.52435
+my steer : 1.58551
+Received cur_pose_all: x = -1.43899, y = 3.63198, theta = 40.78
+my steer : -1.32799
+my steer : 0.796927
+Received cur_pose_all: x = -1.52987, y = 3.64726, theta = 40.78
+my steer : -1.16775
+my steer : 0.824091
+Received cur_pose_all: x = -1.52987, y = 3.64726, theta = 40.78
+my steer : -1.16775
+my steer : 0.824091
+Received cur_pose_all: x = -1.60526, y = 3.68801, theta = 41.88
+my steer : 1.30333
+my steer : -1.33068
+Received cur_pose_all: x = -2.39583, y = 3.89415, theta = 59.11
+my steer : -1.46395
+my steer : 1.50427
+Received cur_pose_all: x = -2.59451, y = 3.91209, theta = 61.02
+my steer : 1.49018
+my steer : -1.40114
+Received cur_pose_all: x = -2.59451, y = 3.91209, theta = 61.02
+my steer : 1.49018
+my steer : -1.40114
+Received cur_pose_all: x = -2.59451, y = 3.91209, theta = 62.96
+my steer : 0.494717
+my steer : -0.887572
+Received cur_pose_all: x = -2.59451, y = 3.91209, theta = 62.96
+my steer : 0.494717
+my steer : -0.887572
+Received cur_pose_all: x = -2.59451, y = 3.91209, theta = 62.96
+my steer : 0.494717
+my steer : -1.36839
+Received cur_pose_all: x = -2.7891, y = 3.93295, theta = 64.8
+my steer : -1.58014
+my steer : 1.58231
+Received cur_pose_all: x = -2.7891, y = 3.93295, theta = 64.8
+my steer : -1.58014
+my steer : 1.58231
+Received cur_pose_all: x = -2.89177, y = 3.93683, theta = 66.23
+my steer : 0.0541916
+my steer : 0.66932
+Received cur_pose_all: x = -2.89177, y = 3.93683, theta = 66.23
+my steer : 0.0541916
+my steer : -1.36839
+Received cur_pose_all: x = -2.89177, y = 3.93683, theta = 66.23
+my steer : 0.0541916
+my steer : -1.36839
+Received cur_pose_all: x = -2.99431, y = 3.94896, theta = 67.41
+my steer : 1.54923
+my steer : -1.36839
+Received cur_pose_all: x = -2.99431, y = 3.94896, theta = 67.41
+my steer : 1.54923
+my steer : -1.44431
+Received cur_pose_all: x = -2.99431, y = 3.94896, theta = 67.41
+my steer : 1.54923
+my steer : -1.44431
+Received cur_pose_all: x = -4.00023, y = 4.62195, theta = 55.55
+my steer : 1.55828
+my steer : -1.36839
+Received cur_pose_all: x = -4.03447, y = 4.70489, theta = 53.45
+my steer : -0.510128
+my steer : 0.639861
+Received cur_pose_all: x = -4.03447, y = 4.70489, theta = 53.45
+my steer : -0.510128
+my steer : -1.36839
+Received cur_pose_all: x = -4.03447, y = 4.70489, theta = 53.45
+my steer : -0.510128
+my steer : 0.639861
+Received cur_pose_all: x = -4.06511, y = 4.79002, theta = 51.36
+my steer : -1.30236
+my steer : 1.34511
+Received cur_pose_all: x = -4.06511, y = 4.79002, theta = 51.36
+my steer : -1.30236
+my steer : -1.36839
+Received cur_pose_all: x = -4.09228, y = 4.8766, theta = 49.24
+my steer : 1.57596
+my steer : -1.57965
+Received cur_pose_all: x = -4.09228, y = 4.8766, theta = 49.24
+my steer : 1.57596
+my steer : -1.57965
+Received cur_pose_all: x = -4.09228, y = 4.8766, theta = 49.24
+my steer : 1.57596
+my steer : -1.57965
+Received cur_pose_all: x = -4.11608, y = 4.96487, theta = 47.13
+my steer : -0.798427
+my steer : 1.02108
+Received cur_pose_all: x = -4.11608, y = 4.96487, theta = 47.13
+my steer : -0.798427
+my steer : 1.02108
+Received cur_pose_all: x = -4.14007, y = 5.05582, theta = 45.12
+my steer : -1.41069
+my steer : 1.46513
+Received cur_pose_all: x = -4.14007, y = 5.05582, theta = 45.12
+my steer : -1.41069
+my steer : 1.46513
+Received cur_pose_all: x = -4.14007, y = 5.05582, theta = 45.12
+my steer : -1.41069
+my steer : 1.46513
+Received cur_pose_all: x = -5.08476, y = 5.79138, theta = 53.7
+my steer : -0.00233716
+my steer : 0.0481522
+Received cur_pose_all: x = -5.08476, y = 5.79138, theta = 53.7
+my steer : -0.00233716
+my steer : 0.0481522
+Received cur_pose_all: x = -5.17602, y = 5.79381, theta = 55.77
+my steer : 1.50571
+my steer : -1.51441
+Received cur_pose_all: x = -5.17602, y = 5.79381, theta = 55.77
+my steer : 1.50571
+my steer : -1.51441
+Received cur_pose_all: x = -5.17602, y = 5.79381, theta = 55.77
+my steer : 1.50571
+my steer : -1.51441
+Received cur_pose_all: x = -5.17602, y = 5.79381, theta = 57.73
+my steer : -1.43444
+my steer : -1.36839
+Received cur_pose_all: x = -5.17602, y = 5.79381, theta = 57.73
+my steer : -1.43444
+my steer : 1.42036
+Received cur_pose_all: x = -5.36652, y = 5.79939, theta = 59.49
+my steer : -1.05111
+my steer : 1.11346
+Received cur_pose_all: x = -5.36652, y = 5.79939, theta = 59.49
+my steer : -1.05111
+my steer : -1.36839
+Received cur_pose_all: x = -5.36652, y = 5.79939, theta = 59.49
+my steer : -1.05111
+my steer : 1.11346
+Received cur_pose_all: x = -5.4607, y = 5.80036, theta = 61.42
+my steer : 1.58293
+my steer : -1.36839
+Received cur_pose_all: x = -5.4607, y = 5.80036, theta = 61.42
+my steer : 1.58293
+my steer : -1.57887
+Received cur_pose_all: x = -5.4607, y = 5.80036, theta = 63.3
+my steer : -0.561087
+my steer : 0.425044
+Received cur_pose_all: x = -5.55525, y = 5.7972, theta = 63.3
+my steer : -0.575224
+my steer : 0.429513
+Received cur_pose_all: x = -6.58119, y = 5.91943, theta = 74.75
+my steer : 1.451
+my steer : -1.49245
+Received cur_pose_all: x = -6.58119, y = 5.91943, theta = 74.75
+my steer : 1.451
+my steer : -1.49245
+Received cur_pose_all: x = -6.58119, y = 5.91943, theta = 74.75
+my steer : 1.451
+my steer : -1.49245
+Received cur_pose_all: x = -6.79446, y = 5.93205, theta = 75.74
+my steer : -0.214196
+my steer : -0.123531
+Received cur_pose_all: x = -6.79446, y = 5.93205, theta = 75.74
+my steer : -0.214196
+my steer : -1.36839
+Received cur_pose_all: x = -6.79446, y = 5.93205, theta = 75.74
+my steer : -0.214196
+my steer : -0.123531
+Received cur_pose_all: x = -6.90292, y = 5.93762, theta = 76.57
+my steer : -1.44255
+my steer : 1.36735
+Received cur_pose_all: x = -6.90292, y = 5.93762, theta = 76.57
+my steer : -1.44255
+my steer : 1.36735
+Received cur_pose_all: x = -6.90292, y = 5.93762, theta = 76.57
+my steer : -1.44255
+my steer : 1.36735
+Received cur_pose_all: x = -7.01212, y = 5.94902, theta = 76.87
+my steer : -1.54926
+my steer : 1.51058
+Received cur_pose_all: x = -7.01212, y = 5.94902, theta = 76.87
+my steer : -1.54926
+my steer : -1.36839
+Received cur_pose_all: x = -7.1204, y = 5.9677, theta = 77.03
+my steer : -1.57633
+my steer : 1.55099
+Received cur_pose_all: x = -7.1204, y = 5.9677, theta = 77.03
+my steer : -1.57633
+my steer : 1.55099
+Received cur_pose_all: x = -7.1204, y = 5.9677, theta = 77.03
+my steer : -1.57633
+my steer : 1.55099
+Received cur_pose_all: x = -8.23082, y = 5.89858, theta = 271.94
+my steer : -1.58304
+my steer : 1.57699
+Received cur_pose_all: x = -8.23082, y = 5.89858, theta = 271.94
+my steer : -1.58304
+my steer : 1.57699
+Received cur_pose_all: x = -8.38854, y = 5.78872, theta = 274.19
+my steer : 1.1801
+my steer : -1.36839
+Received cur_pose_all: x = -8.38854, y = 5.78872, theta = 274.19
+my steer : 1.1801
+my steer : -1.1719
+Received cur_pose_all: x = -8.46399, y = 5.72833, theta = 276.43
+my steer : 0.677238
+my steer : -0.77446
+Received cur_pose_all: x = -8.46399, y = 5.72833, theta = 276.43
+my steer : 0.677238
+my steer : -0.77446
+Received cur_pose_all: x = -8.46399, y = 5.72833, theta = 276.43
+my steer : 0.677238
+my steer : -0.77446
+Received cur_pose_all: x = -8.5412, y = 5.66576, theta = 278.54
+my steer : -1.56386
+my steer : 1.56453
+Received cur_pose_all: x = -8.5412, y = 5.66576, theta = 278.54
+my steer : -1.56386
+my steer : 1.56453
+Received cur_pose_all: x = -8.5412, y = 5.66576, theta = 278.54
+my steer : -1.56386
+my steer : 1.56453
+Received cur_pose_all: x = -8.5412, y = 5.66576, theta = 278.54
+my steer : -1.56386
+my steer : 1.56453
+Received cur_pose_all: x = -8.62635, y = 5.60513, theta = 280.15
+my steer : 0.779061
+my steer : -0.849859
+Received cur_pose_all: x = -8.62635, y = 5.60513, theta = 280.15
+my steer : 0.779061
+my steer : -0.849859
+Received cur_pose_all: x = -8.62635, y = 5.60513, theta = 280.15
+my steer : 0.779061
+my steer : -0.849859
+Received cur_pose_all: x = -8.62635, y = 5.60513, theta = 281.49
+my steer : 1.5842
+my steer : -1.58219
+Received cur_pose_all: x = -8.62635, y = 5.60513, theta = 281.49
+my steer : 1.5842
+my steer : -1.58219
+Received cur_pose_all: x = -8.62635, y = 5.60513, theta = 281.49
+my steer : 1.5842
+my steer : -1.58219
+Received cur_pose_all: x = -8.80953, y = 5.49721, theta = 282.77
+my steer : 0.597447
+my steer : -0.973832
+Received cur_pose_all: x = -8.80953, y = 5.49721, theta = 282.77
+my steer : 0.597447
+my steer : -0.973832
+Received cur_pose_all: x = -8.80953, y = 5.49721, theta = 282.77
+my steer : 0.597447
+my steer : -0.973832
+Received cur_pose_all: x = -8.80953, y = 5.49721, theta = 283.54
+my steer : -1.15279
+my steer : 0.868121
+Received cur_pose_all: x = -9.74781, y = 5.31119, theta = 279.88
+my steer : 0.0997748
+my steer : 0.166399
+Received cur_pose_all: x = -9.74781, y = 5.31119, theta = 279.88
+my steer : 0.0997748
+my steer : 0.166399
+Received cur_pose_all: x = -9.74781, y = 5.31119, theta = 279.88
+my steer : 0.0997748
+my steer : 0.166399
+Received cur_pose_all: x = -9.74781, y = 5.31119, theta = 279.12
+my steer : -1.32468
+my steer : 1.38982
+Received cur_pose_all: x = -9.74781, y = 5.31119, theta = 279.12
+my steer : -1.32468
+my steer : 1.38982
+Received cur_pose_all: x = -9.74781, y = 5.31119, theta = 279.12
+my steer : -1.32468
+my steer : 1.38982
+Received cur_pose_all: x = -9.79817, y = 5.35097, theta = 279.33
+my steer : -1.10607
+my steer : 1.24376
+Received cur_pose_all: x = -9.79817, y = 5.35097, theta = 279.33
+my steer : -1.10607
+my steer : 1.24376
+Received cur_pose_all: x = -9.8116, y = 5.35849, theta = 279.23
+my steer : -1.21935
+my steer : 1.33322
+Received cur_pose_all: x = -9.8116, y = 5.35849, theta = 279.23
+my steer : -1.21935
+my steer : 1.33322
+Received cur_pose_all: x = -9.8116, y = 5.35849, theta = 279.23
+my steer : -1.21935
+my steer : 1.33322
+Received cur_pose_all: x = -9.81953, y = 5.36115, theta = 279.2
+my steer : -1.24841
+my steer : 1.35625
+Received cur_pose_all: x = -9.81953, y = 5.36115, theta = 279.2
+my steer : -1.24841
+my steer : 1.35625
+Received cur_pose_all: x = -9.81978, y = 5.3614, theta = 279.22
+my steer : -1.22884
+my steer : 1.34195
+Received cur_pose_all: x = -9.81563, y = 5.36309, theta = 279.3
+my steer : -1.14085
+my steer : 1.27805
+Received cur_pose_all: x = -9.81581, y = 5.36309, theta = 279.31
+my steer : -1.12866
+my steer : 1.51031
+Received cur_pose_all: x = -9.81581, y = 5.36309, theta = 279.31
+my steer : -1.12866
+my steer : 1.26909
+Received cur_pose_all: x = -9.81581, y = 5.36309, theta = 279.31
+my steer : -1.12866
+my steer : 1.26909
+Received cur_pose_all: x = -9.81575, y = 5.36261, theta = 279.32
+my steer : -1.11628
+my steer : 1.25966
+Received cur_pose_all: x = -9.81575, y = 5.36261, theta = 279.32
+my steer : -1.11628
+my steer : 1.25966
+Received cur_pose_all: x = -9.81605, y = 5.36261, theta = 279.32
+my steer : -1.11627
+my steer : 1.25966
+Received cur_pose_all: x = -9.81605, y = 5.36261, theta = 279.32
+my steer : -1.11627
+my steer : 1.25966
+Received cur_pose_all: x = -9.81605, y = 5.36261, theta = 279.32
+my steer : -1.11627
+my steer : 1.25966
+Received cur_pose_all: x = -9.81611, y = 5.36309, theta = 279.34
+my steer : -1.09038
+my steer : 1.24093
+Received cur_pose_all: x = -9.81611, y = 5.36309, theta = 279.34
+my steer : -1.09038
+my steer : 1.24093
+Received cur_pose_all: x = -9.8163, y = 5.36237, theta = 279.33
+my steer : -1.10354
+my steer : 1.25013
+Received cur_pose_all: x = -9.8163, y = 5.36237, theta = 279.33
+my steer : -1.10354
+my steer : 1.25013
+Received cur_pose_all: x = -9.8163, y = 5.36237, theta = 279.33
+my steer : -1.10354
+my steer : 1.25013
+Received cur_pose_all: x = -9.81813, y = 5.36237, theta = 279.43
+my steer : -0.958552
+my steer : 1.14317
+Received cur_pose_all: x = -9.81813, y = 5.36237, theta = 279.4
+my steer : -1.00552
+my steer : 1.1779
+Received cur_pose_all: x = -9.81813, y = 5.36237, theta = 279.4
+my steer : -1.00552
+my steer : 1.1779
+Received cur_pose_all: x = -9.81795, y = 5.36309, theta = 279.39
+my steer : -1.02036
+my steer : 1.18941
+Received cur_pose_all: x = -9.81795, y = 5.36309, theta = 279.39
+my steer : -1.02036
+my steer : 1.18941
+Received cur_pose_all: x = -9.81795, y = 5.36309, theta = 279.39
+my steer : -1.02036
+my steer : 1.18941
+Received cur_pose_all: x = -9.81795, y = 5.36309, theta = 279.41
+my steer : -0.990083
+my steer : 1.16707
+Received cur_pose_all: x = -9.81795, y = 5.36309, theta = 279.41
+my steer : -0.990083
+my steer : 1.16707
+Received cur_pose_all: x = -9.81795, y = 5.36309, theta = 279.41
+my steer : -0.990083
+my steer : 1.16707
+Received cur_pose_all: x = -9.81825, y = 5.36237, theta = 279.4
+my steer : -1.00552
+my steer : 1.1779
+Received cur_pose_all: x = -9.81825, y = 5.36237, theta = 279.4
+my steer : -1.00552
+my steer : 1.1779
+Received cur_pose_all: x = -9.81813, y = 5.36212, theta = 279.41
+my steer : -0.990261
+my steer : 1.16643
+Received cur_pose_all: x = -9.81813, y = 5.36212, theta = 279.41
+my steer : -0.990261
+my steer : 1.16643
+Received cur_pose_all: x = -9.81813, y = 5.36212, theta = 279.43
+my steer : -0.958601
+my steer : 1.143
+Received cur_pose_all: x = -9.8202, y = 5.35921, theta = 279.53
+my steer : -0.778546
+my steer : 1.00564
+Received cur_pose_all: x = -9.8202, y = 5.35921, theta = 279.53
+my steer : -0.778546
+my steer : 1.00564
+Received cur_pose_all: x = -9.8202, y = 5.35921, theta = 279.53
+my steer : -0.778546
+my steer : 1.00564
+Received cur_pose_all: x = -9.8202, y = 5.35921, theta = 279.54
+my steer : -0.75834
+my steer : 0.990336
+Received cur_pose_all: x = -9.8202, y = 5.35921, theta = 279.54
+my steer : -0.75834
+my steer : 0.990336
+Received cur_pose_all: x = -9.8202, y = 5.35921, theta = 279.54
+my steer : -0.75834
+my steer : 0.990336
+Received cur_pose_all: x = -9.8202, y = 5.35897, theta = 279.53
+my steer : -0.778607
+my steer : 1.00543
+Received cur_pose_all: x = -9.8202, y = 5.35897, theta = 279.53
+my steer : -0.778607
+my steer : 1.00543
+Received cur_pose_all: x = -9.82033, y = 5.35873, theta = 279.54
+my steer : -0.758456
+my steer : 0.989898
+Received cur_pose_all: x = -9.82033, y = 5.35873, theta = 279.54
+my steer : -0.758456
+my steer : 0.989898
+Received cur_pose_all: x = -9.82033, y = 5.35873, theta = 279.54
+my steer : -0.758456
+my steer : -1.36839
+Received cur_pose_all: x = -9.82057, y = 5.35849, theta = 279.56
+my steer : -0.716888
+my steer : 0.957992
+Received cur_pose_all: x = -9.82057, y = 5.35849, theta = 279.56
+my steer : -0.716888
+my steer : 0.957992
+Received cur_pose_all: x = -9.82063, y = 5.35849, theta = 279.57
+my steer : -0.695471
+my steer : 0.941613
+Received cur_pose_all: x = -9.82161, y = 5.35654, theta = 279.59
+my steer : -0.651912
+my steer : 0.905794
+Received cur_pose_all: x = -9.82197, y = 5.35582, theta = 279.61
+my steer : -0.606482
+my steer : -1.36839
+Received cur_pose_all: x = -9.82197, y = 5.35582, theta = 279.61
+my steer : -0.606482
+my steer : 0.869579
+Received cur_pose_all: x = -9.82197, y = 5.35582, theta = 279.61
+my steer : -0.606482
+my steer : 0.869579
+Received cur_pose_all: x = -9.82185, y = 5.35557, theta = 279.63
+my steer : -0.559387
+my steer : 0.83229
+Received cur_pose_all: x = -9.82185, y = 5.35557, theta = 279.63
+my steer : -0.559387
+my steer : 0.83229
+Received cur_pose_all: x = -9.82191, y = 5.35557, theta = 279.63
+my steer : -0.559382
+my steer : 0.83229
+Received cur_pose_all: x = -9.82191, y = 5.35557, theta = 279.63
+my steer : -0.559382
+my steer : 0.83229
+Received cur_pose_all: x = -9.82191, y = 5.35557, theta = 279.63
+my steer : -0.559382
+my steer : 0.83229
+Received cur_pose_all: x = -9.82204, y = 5.35485, theta = 279.61
+my steer : -0.606758
+my steer : 0.868552
+Received cur_pose_all: x = -9.82204, y = 5.35485, theta = 279.61
+my steer : -0.606758
+my steer : 0.868552
+Received cur_pose_all: x = -9.82204, y = 5.35485, theta = 279.61
+my steer : -0.606758
+my steer : 0.868552
+Received cur_pose_all: x = -9.82204, y = 5.35485, theta = 279.64
+my steer : -0.535433
+my steer : 0.812366
+Received cur_pose_all: x = -9.82204, y = 5.35485, theta = 279.64
+my steer : -0.535433
+my steer : 0.812366
+Received cur_pose_all: x = -9.82234, y = 5.35194, theta = 279.64
+my steer : -0.536291
+my steer : 0.809075
+Received cur_pose_all: x = -9.82234, y = 5.35194, theta = 279.64
+my steer : -0.536291
+my steer : 0.809075
+Received cur_pose_all: x = -9.82234, y = 5.35145, theta = 279.64
+my steer : -0.536438
+my steer : 0.808525
+Received cur_pose_all: x = -9.82234, y = 5.35145, theta = 279.64
+my steer : -0.536438
+my steer : 0.808525
+Received cur_pose_all: x = -9.82234, y = 5.35145, theta = 279.64
+my steer : -0.536438
+my steer : 0.808525
+Received cur_pose_all: x = -9.82228, y = 5.35145, theta = 279.64
+my steer : -0.536443
+my steer : 1.34137
+Received cur_pose_all: x = -9.82228, y = 5.35145, theta = 279.64
+my steer : -0.536443
+my steer : 0.808525
+Received cur_pose_all: x = -9.82228, y = 5.35145, theta = 279.64
+my steer : -0.536443
+my steer : 0.808525
+Received cur_pose_all: x = -9.82228, y = 5.35145, theta = 279.64
+my steer : -0.536443
+my steer : 0.808525
+Received cur_pose_all: x = -9.82228, y = 5.35145, theta = 279.64
+my steer : -0.536443
+my steer : 0.808525
+Received cur_pose_all: x = -9.82228, y = 5.35097, theta = 279.63
+my steer : -0.560729
+my steer : 0.827185
+Received cur_pose_all: x = -9.82228, y = 5.35097, theta = 279.63
+my steer : -0.560729
+my steer : 0.827185
+Received cur_pose_all: x = -9.82228, y = 5.35097, theta = 279.63
+my steer : -0.560729
+my steer : 0.827185
+Received cur_pose_all: x = -9.82234, y = 5.35024, theta = 279.63
+my steer : -0.560942
+my steer : 0.826376
+Received cur_pose_all: x = -9.82191, y = 5.34927, theta = 279.63
+my steer : -0.561261
+my steer : 0.825295
+Received cur_pose_all: x = -9.82191, y = 5.34927, theta = 279.63
+my steer : -0.561261
+my steer : 0.825295
+Received cur_pose_all: x = -9.82191, y = 5.34927, theta = 279.63
+my steer : -0.561261
+my steer : 0.825295
+Received cur_pose_all: x = -9.82191, y = 5.34927, theta = 279.63
+my steer : -0.561261
+my steer : -1.36839
+Received cur_pose_all: x = -9.82191, y = 5.34927, theta = 279.63
+my steer : -0.561261
+my steer : 0.825295
+Received cur_pose_all: x = -9.82191, y = 5.34927, theta = 279.63
+my steer : -0.561261
+my steer : 0.825295
+Received cur_pose_all: x = -9.82191, y = 5.34927, theta = 279.63
+my steer : -0.561261
+my steer : -1.36839
+Received cur_pose_all: x = -9.82191, y = 5.34927, theta = 279.63
+my steer : -0.561261
+my steer : -1.36839
+Received cur_pose_all: x = -9.82191, y = 5.34927, theta = 279.63
+my steer : -0.561261
+my steer : -1.36839
+Received cur_pose_all: x = -9.82191, y = 5.34927, theta = 279.63
+my steer : -0.561261
+my steer : 0.825295
+Received cur_pose_all: x = -9.82191, y = 5.34927, theta = 279.63
+my steer : -0.561261
+my steer : 0.825295
+Received cur_pose_all: x = -9.82191, y = 5.34927, theta = 279.63
+my steer : -0.561261
+my steer : 0.825295
+Received cur_pose_all: x = -9.82191, y = 5.34927, theta = 279.63
+my steer : -0.561261
+my steer : 0.825295
+Received cur_pose_all: x = -9.82191, y = 5.34927, theta = 279.63
+my steer : -0.561261
+my steer : 0.825295
+Received cur_pose_all: x = -9.82283, y = 5.34442, theta = 279.63
+my steer : -0.562638
+my steer : -1.36839
+Received cur_pose_all: x = -9.82283, y = 5.34442, theta = 279.63
+my steer : -0.562638
+my steer : 0.819863
+Received cur_pose_all: x = -9.82283, y = 5.34442, theta = 279.63
+my steer : -0.562638
+my steer : 0.819863
+Received cur_pose_all: x = -9.82283, y = 5.34442, theta = 279.63
+my steer : -0.562638
+my steer : 0.819863
+Received cur_pose_all: x = -9.82283, y = 5.34442, theta = 279.63
+my steer : -0.562638
+my steer : 0.819863
+Received cur_pose_all: x = -9.82283, y = 5.34442, theta = 279.63
+my steer : -0.562638
+my steer : 0.819863
+Received cur_pose_all: x = -9.82283, y = 5.34442, theta = 279.63
+my steer : -0.562638
+my steer : -1.36839
+Received cur_pose_all: x = -9.82283, y = 5.34442, theta = 279.63
+my steer : -0.562638
+my steer : 0.819863
+Received cur_pose_all: x = -9.82283, y = 5.34442, theta = 279.63
+my steer : -0.562638
+my steer : 0.819863
+Received cur_pose_all: x = -9.82283, y = 5.34442, theta = 279.63
+my steer : -0.562638
+my steer : 0.819863
+Received cur_pose_all: x = -9.82283, y = 5.34442, theta = 279.63
+my steer : -0.562638
+my steer : -1.36839
+Received cur_pose_all: x = -9.82283, y = 5.34442, theta = 279.63
+my steer : -0.562638
+my steer : 0.819863
+Received cur_pose_all: x = -9.82283, y = 5.34442, theta = 279.63
+my steer : -0.562638
+my steer : 0.819863
+Received cur_pose_all: x = -9.82283, y = 5.34442, theta = 279.63
+my steer : -0.562638
+my steer : 0.819863
+Received cur_pose_all: x = -9.82283, y = 5.34442, theta = 279.63
+my steer : -0.562638
+my steer : 0.819863
+Received cur_pose_all: x = -9.82283, y = 5.34442, theta = 279.63
+my steer : -0.562638
+my steer : -1.36839
+Received cur_pose_all: x = -9.82283, y = 5.34442, theta = 279.63
+my steer : -0.562638
+my steer : 0.819863
+Received cur_pose_all: x = -9.82283, y = 5.34442, theta = 279.63
+my steer : -0.562638
+my steer : 0.819863
+Received cur_pose_all: x = -9.82283, y = 5.34442, theta = 279.63
+my steer : -0.562638
+my steer : 0.819863
+Received cur_pose_all: x = -9.82283, y = 5.34442, theta = 279.63
+my steer : -0.562638
+my steer : 0.819863
+Received cur_pose_all: x = -9.82283, y = 5.34442, theta = 279.63
+my steer : -0.562638
+my steer : 0.819863
+Received cur_pose_all: x = -9.82283, y = 5.34369, theta = 279.63
+my steer : -0.562854
+my steer : 0.819045
+Received cur_pose_all: x = -9.82283, y = 5.34369, theta = 279.63
+my steer : -0.562854
+my steer : -1.36839
+Received cur_pose_all: x = -9.82283, y = 5.34369, theta = 279.63
+my steer : -0.562854
+my steer : -1.36839
+Received cur_pose_all: x = -9.82283, y = 5.34369, theta = 279.63
+my steer : -0.562854
+my steer : -1.36839
+Received cur_pose_all: x = -9.82301, y = 5.34248, theta = 279.63
+my steer : -0.563202
+my steer : -1.36839
+Received cur_pose_all: x = -9.82301, y = 5.34248, theta = 279.63
+my steer : -0.563202
+my steer : 0.817679
+Received cur_pose_all: x = -9.82301, y = 5.34248, theta = 279.63
+my steer : -0.563202
+my steer : 0.817679
+Received cur_pose_all: x = -9.82301, y = 5.34248, theta = 279.63
+my steer : -0.563202
+my steer : 0.817679
+Received cur_pose_all: x = -9.82301, y = 5.34248, theta = 279.63
+my steer : -0.563202
+my steer : 0.817679
+Received cur_pose_all: x = -9.82301, y = 5.34248, theta = 279.63
+my steer : -0.563202
+my steer : 0.817679
+Received cur_pose_all: x = -9.82301, y = 5.34248, theta = 279.63
+my steer : -0.563202
+my steer : 0.817679
+Received cur_pose_all: x = -9.82301, y = 5.34248, theta = 279.63
+my steer : -0.563202
+my steer : 0.817679
+Received cur_pose_all: x = -9.82301, y = 5.34248, theta = 279.63
+my steer : -0.563202
+my steer : 0.817679
+Received cur_pose_all: x = -9.82301, y = 5.34248, theta = 279.63
+my steer : -0.563202
+my steer : 0.817679
+Received cur_pose_all: x = -9.82307, y = 5.3386, theta = 279.66
+my steer : -0.490986
+my steer : 0.753592
+Received cur_pose_all: x = -9.82307, y = 5.3386, theta = 279.66
+my steer : -0.490986
+my steer : 0.753592
+Received cur_pose_all: x = -9.82307, y = 5.3386, theta = 279.66
+my steer : -0.490986
+my steer : 0.753592
+Received cur_pose_all: x = -9.82307, y = 5.3386, theta = 279.66
+my steer : -0.490986
+my steer : 0.753592
+Received cur_pose_all: x = -9.82307, y = 5.3386, theta = 279.66
+my steer : -0.490986
+my steer : 0.753592
+Received cur_pose_all: x = -9.82307, y = 5.3386, theta = 279.66
+my steer : -0.490986
+my steer : 0.753592
+Received cur_pose_all: x = -9.82307, y = 5.3386, theta = 279.66
+my steer : -0.490986
+my steer : 0.753592
+Received cur_pose_all: x = -9.82307, y = 5.3386, theta = 279.66
+my steer : -0.490986
+my steer : 0.753592
+Received cur_pose_all: x = -9.82307, y = 5.3386, theta = 279.66
+my steer : -0.490986
+my steer : 0.753592
+Received cur_pose_all: x = -9.82307, y = 5.3386, theta = 279.66
+my steer : -0.490986
+my steer : 0.753592
+Received cur_pose_all: x = -9.82307, y = 5.3386, theta = 279.66
+my steer : -0.490986
+my steer : 0.753592
+Received cur_pose_all: x = -9.82307, y = 5.3386, theta = 279.66
+my steer : -0.490986
+my steer : 0.753592
+Received cur_pose_all: x = -9.82307, y = 5.3386, theta = 279.66
+my steer : -0.490986
+my steer : 0.753592
+Received cur_pose_all: x = -9.82307, y = 5.3386, theta = 279.66
+my steer : -0.490986
+my steer : 0.753592
+Received cur_pose_all: x = -9.82301, y = 5.33642, theta = 279.6
+my steer : -0.634902
+my steer : -1.36839
+Received cur_pose_all: x = -9.82301, y = 5.33642, theta = 279.6
+my steer : -0.634902
+my steer : 0.867087
+Received cur_pose_all: x = -9.82301, y = 5.33642, theta = 279.6
+my steer : -0.634902
+my steer : 0.867087
+Received cur_pose_all: x = -9.82301, y = 5.33642, theta = 279.6
+my steer : -0.634902
+my steer : 0.867087
+Received cur_pose_all: x = -9.82301, y = 5.33642, theta = 279.6
+my steer : -0.634902
+my steer : 0.867087
+Received cur_pose_all: x = -9.82301, y = 5.33642, theta = 279.6
+my steer : -0.634902
+my steer : 0.867087
+Received cur_pose_all: x = -9.82301, y = 5.33642, theta = 279.6
+my steer : -0.634902
+my steer : 0.867087
+Received cur_pose_all: x = -9.82301, y = 5.33642, theta = 279.6
+my steer : -0.634902
+my steer : 0.867087
+Received cur_pose_all: x = -9.82301, y = 5.33642, theta = 279.6
+my steer : -0.634902
+my steer : 0.867087
+Received cur_pose_all: x = -9.82301, y = 5.33642, theta = 279.6
+my steer : -0.634902
+my steer : -1.36839
+Received cur_pose_all: x = -9.82301, y = 5.33642, theta = 279.6
+my steer : -0.634902
+my steer : -1.36839
+Received cur_pose_all: x = -9.82301, y = 5.33642, theta = 279.6
+my steer : -0.634902
+my steer : 0.867087
+Received cur_pose_all: x = -9.82301, y = 5.33642, theta = 279.6
+my steer : -0.634902
+my steer : 0.867087
+[c node] received stop event
+END lat_control

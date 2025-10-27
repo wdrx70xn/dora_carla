@@ -1,0 +1,12 @@
+road_lane 
+  [2m2024-10-16T05:07:06.855961Z[0m [31mERROR[0m [1;31mdora_node_api_c[0m[31m: [31mfailed to initialize node
+
+Caused by:
+   0: failed to init event stream
+   1: failed to register node with dora-daemon
+   2: version mismatch: message format v0.3.2 is not compatible with expected message format v0.4.0
+
+Location:
+    apis/rust/node/src/daemon_connection/mod.rs:61:30[0m
+    [2;3mat[0m apis/c/node/src/lib.rs:35
+

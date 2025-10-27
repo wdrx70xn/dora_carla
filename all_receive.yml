@@ -1,0 +1,132 @@
+nodes:
+  - id: receive
+    custom:
+      source: dora-hardware/vendors/carla_bridge/receiver/build/one
+      #source: ../../dora-hardware/vendors/gnss/CGI_611/drive_dora
+      inputs:
+        tick: dora/timer/millis/20
+      # queue_size: 1000
+      outputs:
+        - DoraNavSatFix
+        - DoraQuaternionStamped
+        - pointcloud
+    env:
+      DEVICE_INDEX: 0
+
+
+  - id: gnss_poser
+    custom:
+      source: sensing/gnss_poser/build/gnss_poser_core
+      inputs:
+        # tick: dora/timer/millis/50
+        DoraNavSatFix: receive/DoraNavSatFix 
+      outputs:
+        - DoraSentence
+        - DoraNavSatFix
+        - DoraQuaternionStamped
+        - DoraTwistStamped
+
+
+  - id: gnss_ekf
+    custom:
+      source: localization/ekf_localizer/build/gnss_ekf
+      inputs:
+              DoraNavSatFix: gnss_poser/DoraNavSatFix
+              DoraQuaternionStamped: receive/DoraQuaternionStamped
+              # tick: dora/timer/millis/50
+      # queue_size: 500 
+      outputs:
+            - DoraGnssPose
+
+
+#编译此节点需进入sensing/gnss_poser目录下打开终端运行./pubroad.sh即可（注意路径问题）
+  - id: pub_road # 发布地图轨迹
+    custom:
+      source: sensing/gnss_poser/pubroad
+      inputs:
+        tick: dora/timer/millis/20
+      outputs:
+        - road_lane
+        
+      
+  - id: road_lane_publisher_node #获取自身位姿
+    custom:
+      source: map/road_line_publisher/build/road_lane_publisher_node
+      inputs:
+              # tick: dora/timer/millis/50
+              road_lane: pub_road/road_lane
+              DoraGnssPose: gnss_ekf/DoraGnssPose
+      outputs:
+            - cur_pose_all  #输出频率 2ms /20ms 一个数据？
+            
+  - id: task_pub_node 
+    custom:
+      source: planning/mission_planning/task_pub/build/task_pub_node
+      inputs:
+        tick: dora/timer/millis/20
+      outputs:
+#            - task_exc_service
+            - road_attri_msg
+            
+
+            
+  - id: planning  #局部路径
+    custom:
+      source: planning/routing_planning/build/routing_planning_node
+      inputs:
+              # tick: dora/timer/millis/50
+              road_lane: pub_road/road_lane   #全局地图
+              cur_pose_all: road_lane_publisher_node/cur_pose_all
+              road_attri_msg: task_pub_node/road_attri_msg
+              # SetSpeed_service: task_exc_node/SetSpeed_service
+              # routing_service: task_exc_node/routing_service
+              # SetStop_service: aeb_node/SetStop_service
+              # VehicleStat: control/VehicleStat
+      outputs:
+            - raw_path  #频率更新慢，不定时长 1ms - 5s
+            - Request
+
+
+
+  - id: lon_control
+    custom:
+      source: control/vehicle_control/lon_controller/build/lon_controller_node
+      inputs:
+        # tick: dora/timer/millis/50
+        Request: planning/Request
+      outputs:
+        - TrqBreCmd
+        
+            
+  - id: latcontrol
+    custom:
+      source: control/vehicle_control/lat_controller/build/lat_controller_node
+      inputs:
+        # tick: dora/timer/millis/50
+        # VehicleStat: control/VehicleStat
+        cur_pose_all: road_lane_publisher_node/cur_pose_all
+        raw_path: planning/raw_path
+      outputs:
+        - SteeringCmd #100hz
+        
+
+        
+  - id: ctrl_trans
+    custom:	
+      source: control/vehicle_control/ctrl_trans/build/ctrl_trans
+      inputs:
+        # tick: dora/timer/millis/100
+        SteeringCmd: latcontrol/SteeringCmd
+        TrqBreCmd: lon_control/TrqBreCmd
+
+
+
+  - id: rerun 
+    custom:
+      source: rerun/build/to_rerun
+      inputs:
+        pointcloud: receive/pointcloud
+        raw_path: planning/raw_path
+        DoraGnssPose: gnss_ekf/DoraGnssPose
+        
+        # cur_pose: hdl_localization/cur_pose

@@ -1,0 +1,10 @@
+euclidean_cluster for dora 
+[2m2025-04-19T10:49:25.085507Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m failed to initialize node
+
+Caused by:
+   0: failed to init event stream
+   1: subscribe failed: Node aeb_node exited before initializing dora. For more information, run `dora logs 01964daa-d833-783f-99d5-185b69b91634 aeb_node`.
+
+Location:
+    apis/rust/node/src/event_stream/mod.rs:138:17
+euclidean_cluster: failed to init dora context

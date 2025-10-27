@@ -1,0 +1,29 @@
+AEB_NODE
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+[c node] received stop event
+[c node] ERROR: unexpected end of event
+END AEB_NODE

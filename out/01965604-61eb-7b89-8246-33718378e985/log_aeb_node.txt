@@ -1,0 +1,6 @@
+AEB_NODE
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Cancelled! No objects detected.
+AEB Activated! cur_pose_all.s is between 47 and 49.
+AEB Cancelled! 3 seconds elapsed.

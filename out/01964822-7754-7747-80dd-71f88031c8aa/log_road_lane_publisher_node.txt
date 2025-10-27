@@ -1,0 +1,2 @@
+[c node] received stop event
+[c node] ERROR: unexpected end of event

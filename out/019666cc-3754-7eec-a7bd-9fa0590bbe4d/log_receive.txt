@@ -1,0 +1,8 @@
+rslidar driver for dora (TCP and UDP version) 
+Starting UDP receiver on port 12345
+Dora context initialized successfully.
+TCP receiver started, listening on port 5005
+Waiting for a new connection...
+Socket created successfully.
+Socket bound to port 12345 successfully.
+[c node] received stop event

@@ -1,0 +1,1840 @@
+HELLO control
+[Input] Received TrqBreCmd with throttle: 0, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0
+Sent 56 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000413952
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 72 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000413952
+Sent 72 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000413952
+Sent 72 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: 1.59235e-05
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 72 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: 1.59235e-05
+Sent 72 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: 1.59235e-05
+Sent 72 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: 1.59235e-05
+Sent 72 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: 1.59235e-05
+Sent 72 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: 1.59235e-05
+Sent 72 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: 1.59235e-05
+Sent 72 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: 1.59235e-05
+Sent 72 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: 1.59235e-05
+Sent 72 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: 1.59235e-05
+Sent 72 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: 1.59235e-05
+Sent 72 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: 1.59235e-05
+Sent 72 bytes to server
+[Input] Received SteeringCmd with throttle: 1.59235e-05
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 72 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: 1.59235e-05
+Sent 72 bytes to server
+[Input] Received SteeringCmd with throttle: 1.59235e-05
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 72 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: 1.59235e-05
+Sent 72 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117164
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117164
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: 3.0801e-05
+Sent 73 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: 3.0801e-05
+Sent 73 bytes to server
+[Input] Received SteeringCmd with throttle: 3.0801e-05
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 73 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: 3.0801e-05
+Sent 73 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: 3.0801e-05
+Sent 73 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000258052
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000258052
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000258052
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000258052
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000258052
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000258052
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000258052
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000258052
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000258052
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000258052
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000137854
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000137854
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000137854
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000137854
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000137854
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000137854
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000286998
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000286998
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000286998
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000286998
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000286998
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000286998
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000286998
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000286998
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000286998
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000293974
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000293974
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000293974
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000293974
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000294206
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000294206
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000294206
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000294206
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000294206
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000294206
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000294206
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000294206
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000294206
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000294206
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000294206
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000294206
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000294206
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000296996
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000296996
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000296996
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000296996
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000296996
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000296996
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000296996
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000296996
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000296996
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000296996
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000296996
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000296996
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000296996
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000296996
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000296996
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000296996
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.00018005
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 73 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00018005
+Sent 73 bytes to server
+[Input] Received SteeringCmd with throttle: -0.00018005
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 73 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00018005
+Sent 73 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00018005
+Sent 73 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000189001
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000189001
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000189001
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000189001
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000189001
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000189001
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000189001
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000189001
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000189001
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000189001
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000197952
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000197952
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000197952
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000197952
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000197952
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000197952
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000207252
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000207252
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000207252
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000207252
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000207252
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000207252
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000207252
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000207252
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000207252
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000207252
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000226897
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000226897
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000226897
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000226897
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000232245
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000232245
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000232245
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000232245
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000232245
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000232245
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000232245
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000232245
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000232245
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000232245
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000232245
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000232245
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000268166
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000268166
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000268166
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000268166
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000268863
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000268863
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000268863
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000268863
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000268863
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000268863
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000268863
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000268863
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000268863
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000268863
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000268863
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000268863
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000289905
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000289905
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000289905
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000289905
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000317689
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000317689
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000317689
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000317689
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000317689
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000317689
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000317689
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000317689
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000317689
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000317689
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000317689
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000314899
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000314899
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000314899
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000314899
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000314899
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000314899
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000314899
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000314899
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000350358
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000350358
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000350358
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000350358
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000350358
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000350358
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000350358
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000350358
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000350358
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000350358
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000350358
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000350358
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000338616
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000338616
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000338616
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000338616
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000338616
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000338616
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000338616
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000338616
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000338616
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000338616
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000338616
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000338616
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000338616
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000338616
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000338616
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000338616
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000338616
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000338616
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000359309
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000359309
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000359309
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000359309
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.00033536
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00033536
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00033536
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00033536
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00033536
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00033536
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00033536
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00033536
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.00033536
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00033536
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00033536
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00033536
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000197371
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000197371
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000197371
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000197371
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000197371
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000197371
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000196789
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000196789
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000196789
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000196789
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000196789
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000196789
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000196789
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000196789
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000196789
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000196789
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000196789
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000196789
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000328269
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000328269
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000328269
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000328269
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000328269
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000328269
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000179818
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000179818
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000179818
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000179818
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000326292
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000326292
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000326292
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000326292
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000326292
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000326292
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000326292
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000326292
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000326292
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000326292
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000326292
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000326292
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00018005
+Sent 73 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00018005
+Sent 73 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00018005
+Sent 73 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00018005
+Sent 73 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000180631
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000180631
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000180631
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000180631
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000180631
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000180631
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000180631
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000180631
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000180631
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000180631
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000180631
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000180631
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.00021132
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00021132
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00021132
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00021132
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00021132
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000226316
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000226316
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000226316
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000226316
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000226316
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000226316
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000226316
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000226316
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000226316
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000226316
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000226316
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000226316
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000226316
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00022992
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00022992
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.00022992
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00022992
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.00022992
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.00022992
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000225154
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000225154
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000145642
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000145642
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000265841
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000265841
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000265841
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000265841
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000265841
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000265841
+Sent 74 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000265841
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000265841
+Sent 74 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117512
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117512
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117512
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117512
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117512
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[Input] Received SteeringCmd with throttle: -0.000117512
+Sent 75 bytes to server
+[Input] Received SteeringCmd with throttle: -0.000117512
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+Sent 75 bytes to server
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[c node] received stop event
+[Input] Received TrqBreCmd with throttle: 9, brake: 0
+[c node] ERROR: unexpected end of event
+GOODBYE  control

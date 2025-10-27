@@ -1,0 +1,13 @@
+AEB_NODE
+cur_pose_all.x: 0
+cur_pose_all.y: 0
+cur_pose_all.s: 0
+AEB Cancelled! No objects detected.
+cur_pose_all.x: 0
+cur_pose_all.y: 0
+cur_pose_all.s: 0
+AEB Cancelled! No objects detected.
+cur_pose_all.x: 0
+cur_pose_all.y: 0
+cur_pose_all.s: 0
+AEB Cancelled! No objects detected.

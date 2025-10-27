@@ -1,0 +1,3 @@
+[c node] received unexpected event: 2
+[c node] received stop event
+[c node] ERROR: unexpected end of event

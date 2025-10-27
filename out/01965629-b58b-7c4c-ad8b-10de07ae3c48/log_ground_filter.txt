@@ -1,0 +1,419 @@
+patchwork-plusplus  for dora 
+Operating patchwork++...
+Inititalizing PatchWork++...Sensor Height: 1.723000Num of Iteration: 3Num of LPR: 20Num of min. points: 10Seeds Threshold: 0.300000Distance Threshold: 0.125000Max. range:: 80.000000Min. range:: 2.700000Normal vector threshold: 0.707000adaptive_seed_selection_margin: -1.200000Num. zones: 4Num. sectors: 16, 32, 54, 32
+Num. rings: 2, 4, 4, 4
+elevation_thr_: 0.0000, 0.0000, 0.0000, 0.0000 
+flatness_thr_: 0.0000, 0.0000, 0.0000, 0.0000 
+INITIALIZATION COMPLETE
+[c node] dora context initialized
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14950
+Time taken : 0.007812976837158203125
+Time taken to sort: 0
+Time taken to pca : 0.0018470287322998046875
+Time taken to estimate: 0.0010459423065185546875
+Time taken to Revert: 3.337860107421875e-06
+Time taken to update : 4.0531158447265625e-06
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 8
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14952
+Time taken : 0.0086529254913330078125
+Time taken to sort: 0
+Time taken to pca : 0.002690792083740234375
+Time taken to estimate: 0.0009071826934814453125
+Time taken to Revert: 2.47955322265625e-05
+Time taken to update : 5.0067901611328125e-06
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 8
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14758
+Time taken : 0.00765895843505859375
+Time taken to sort: 0
+Time taken to pca : 0.0031101703643798828125
+Time taken to estimate: 0.00050830841064453125
+Time taken to Revert: 6.79492950439453125e-05
+Time taken to update : 5.9604644775390625e-06
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 13
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14860
+Time taken : 0.005435943603515625
+Time taken to sort: 0
+Time taken to pca : 0.0016138553619384765625
+Time taken to estimate: 0.0004837512969970703125
+Time taken to Revert: 7.8678131103515625e-06
+Time taken to update : 5.9604644775390625e-06
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 14
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14801
+Time taken : 0.0068299770355224609375
+Time taken to sort: 0
+Time taken to pca : 0.002797603607177734375
+Time taken to estimate: 0.0004670619964599609375
+Time taken to Revert: 1.239776611328125e-05
+Time taken to update : 8.106231689453125e-06
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 32
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14849
+Time taken : 0.0066220760345458984375
+Time taken to sort: 0
+Time taken to pca : 0.00188541412353515625
+Time taken to estimate: 0.0004289150238037109375
+Time taken to Revert: 5.9604644775390625e-06
+Time taken to update : 8.106231689453125e-06
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 43
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14664
+Time taken : 0.005916118621826171875
+Time taken to sort: 0
+Time taken to pca : 0.0015995502471923828125
+Time taken to estimate: 0.0003430843353271484375
+Time taken to Revert: 1.1920928955078125e-05
+Time taken to update : 8.106231689453125e-06
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 59
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14781
+Time taken : 0.006064891815185546875
+Time taken to sort: 0
+Time taken to pca : 0.0015828609466552734375
+Time taken to estimate: 0.0003259181976318359375
+Time taken to Revert: 1.0967254638671875e-05
+Time taken to update : 9.059906005859375e-06
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 56
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14694
+Time taken : 0.0087101459503173828125
+Time taken to sort: 0
+Time taken to pca : 0.002667903900146484375
+Time taken to estimate: 0.000618457794189453125
+Time taken to Revert: 4.76837158203125e-06
+Time taken to update : 1.12056732177734375e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 65
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14420
+Time taken : 0.0070478916168212890625
+Time taken to sort: 0
+Time taken to pca : 0.0017910003662109375
+Time taken to estimate: 0.0005280971527099609375
+Time taken to Revert: 1.621246337890625e-05
+Time taken to update : 1.1920928955078125e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 73
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14313
+Time taken : 0.0052812099456787109375
+Time taken to sort: 0
+Time taken to pca : 0.0017092227935791015625
+Time taken to estimate: 0.0003859996795654296875
+Time taken to Revert: 1.2874603271484375e-05
+Time taken to update : 1.12056732177734375e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 47
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14296
+Time taken : 0.0075781345367431640625
+Time taken to sort: 0
+Time taken to pca : 0.0025265216827392578125
+Time taken to estimate: 0.00144100189208984375
+Time taken to Revert: 2.288818359375e-05
+Time taken to update : 1.31130218505859375e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 68
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 13884
+Time taken : 0.0063250064849853515625
+Time taken to sort: 0
+Time taken to pca : 0.002101898193359375
+Time taken to estimate: 0.0001819133758544921875
+Time taken to Revert: 9.059906005859375e-06
+Time taken to update : 1.50203704833984375e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 57
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 13885
+Time taken : 0.0060570240020751953125
+Time taken to sort: 0
+Time taken to pca : 0.001970767974853515625
+Time taken to estimate: 0.000302791595458984375
+Time taken to Revert: 8.106231689453125e-06
+Time taken to update : 1.31130218505859375e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 64
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14177
+Time taken : 0.0069220066070556640625
+Time taken to sort: 0
+Time taken to pca : 0.002027988433837890625
+Time taken to estimate: 0.0006334781646728515625
+Time taken to Revert: 5.0067901611328125e-06
+Time taken to update : 2.09808349609375e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 71
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14386
+Time taken : 0.0053951740264892578125
+Time taken to sort: 0
+Time taken to pca : 0.001527309417724609375
+Time taken to estimate: 0.000288486480712890625
+Time taken to Revert: 8.8214874267578125e-06
+Time taken to update : 1.50203704833984375e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 19
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14479
+Time taken : 0.0058400630950927734375
+Time taken to sort: 0
+Time taken to pca : 0.0020601749420166015625
+Time taken to estimate: 0.0003173351287841796875
+Time taken to Revert: 9.5367431640625e-07
+Time taken to update : 2.40802764892578125e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 17
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14486
+Time taken : 0.0057220458984375
+Time taken to sort: 0
+Time taken to pca : 0.001713275909423828125
+Time taken to estimate: 0.00045108795166015625
+Time taken to Revert: 9.5367431640625e-07
+Time taken to update : 1.59740447998046875e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 12
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14405
+Time taken : 0.0086920261383056640625
+Time taken to sort: 0
+Time taken to pca : 0.004729747772216796875
+Time taken to estimate: 0.00051116943359375
+Time taken to Revert: 5.0067901611328125e-06
+Time taken to update : 1.69277191162109375e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 9
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14127
+Time taken : 0.0062620639801025390625
+Time taken to sort: 0
+Time taken to pca : 0.002410411834716796875
+Time taken to estimate: 0.0003550052642822265625
+Time taken to Revert: 7.8678131103515625e-06
+Time taken to update : 1.9073486328125e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 46
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14057
+Time taken : 0.00510883331298828125
+Time taken to sort: 0
+Time taken to pca : 0.0015633106231689453125
+Time taken to estimate: 0.00039577484130859375
+Time taken to Revert: 5.0067901611328125e-06
+Time taken to update : 1.78813934326171875e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 46
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14327
+Time taken : 0.0073339939117431640625
+Time taken to sort: 0
+Time taken to pca : 0.0020020008087158203125
+Time taken to estimate: 0.0004422664642333984375
+Time taken to Revert: 4.0531158447265625e-06
+Time taken to update : 2.288818359375e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 76
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14189
+Time taken : 0.0052211284637451171875
+Time taken to sort: 0
+Time taken to pca : 0.00166416168212890625
+Time taken to estimate: 0.00032901763916015625
+Time taken to Revert: 3.0994415283203125e-06
+Time taken to update : 2.002716064453125e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 8
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14395
+Time taken : 0.0053141117095947265625
+Time taken to sort: 0
+Time taken to pca : 0.00157928466796875
+Time taken to estimate: 0.00044727325439453125
+Time taken to Revert: 5.9604644775390625e-06
+Time taken to update : 2.002716064453125e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 22
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14146
+Time taken : 0.005177021026611328125
+Time taken to sort: 0
+Time taken to pca : 0.0016028881072998046875
+Time taken to estimate: 0.00040721893310546875
+Time taken to Revert: 9.5367431640625e-07
+Time taken to update : 1.9073486328125e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 11
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 13851
+Time taken : 0.00522899627685546875
+Time taken to sort: 0
+Time taken to pca : 0.001637935638427734375
+Time taken to estimate: 0.0004165172576904296875
+Time taken to Revert: 1.3828277587890625e-05
+Time taken to update : 2.193450927734375e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 55
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14090
+Time taken : 0.005753993988037109375
+Time taken to sort: 0
+Time taken to pca : 0.001822948455810546875
+Time taken to estimate: 0.0004136562347412109375
+Time taken to Revert: 5.0067901611328125e-06
+Time taken to update : 2.193450927734375e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 64
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14716
+Time taken : 0.006008148193359375
+Time taken to sort: 0
+Time taken to pca : 0.00187587738037109375
+Time taken to estimate: 0.00052547454833984375
+Time taken to Revert: 7.152557373046875e-06
+Time taken to update : 2.8133392333984375e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 8
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 15099
+Time taken : 0.00603485107421875
+Time taken to sort: 0
+Time taken to pca : 0.001950740814208984375
+Time taken to estimate: 0.0004618167877197265625
+Time taken to Revert: 0
+Time taken to update : 2.288818359375e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 9
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 15249
+Time taken : 0.005947113037109375
+Time taken to sort: 0
+Time taken to pca : 0.0018346309661865234375
+Time taken to estimate: 0.0004694461822509765625
+Time taken to Revert: 3.337860107421875e-06
+Time taken to update : 2.40802764892578125e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 8
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 15323
+Time taken : 0.0082530975341796875
+Time taken to sort: 0
+Time taken to pca : 0.0031888484954833984375
+Time taken to estimate: 0.000814914703369140625
+Time taken to Revert: 1.9073486328125e-06
+Time taken to update : 2.50339508056640625e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 12
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 15629
+Time taken : 0.0059540271759033203125
+Time taken to sort: 0
+Time taken to pca : 0.0017986297607421875
+Time taken to estimate: 0.0006248950958251953125
+Time taken to Revert: 0
+Time taken to update : 2.50339508056640625e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 8
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 15577
+Time taken : 0.005741119384765625
+Time taken to sort: 0
+Time taken to pca : 0.0016956329345703125
+Time taken to estimate: 0.0005919933319091796875
+Time taken to Revert: 9.5367431640625e-07
+Time taken to update : 2.50339508056640625e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 10
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 15570
+Time taken : 0.0068900585174560546875
+Time taken to sort: 0
+Time taken to pca : 0.0021703243255615234375
+Time taken to estimate: 0.00059795379638671875
+Time taken to Revert: 5.9604644775390625e-06
+Time taken to update : 2.50339508056640625e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 6
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 15460
+Time taken : 0.0060307979583740234375
+Time taken to sort: 0
+Time taken to pca : 0.0018422603607177734375
+Time taken to estimate: 0.0002996921539306640625
+Time taken to Revert: 2.1457672119140625e-06
+Time taken to update : 2.88486480712890625e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 55
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 15539
+Time taken : 0.012340068817138671875
+Time taken to sort: 0
+Time taken to pca : 0.00227069854736328125
+Time taken to estimate: 0.001067638397216796875
+Time taken to Revert: 8.106231689453125e-06
+Time taken to update : 2.78949737548828125e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 49
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 15574
+Time taken : 0.0067398548126220703125
+Time taken to sort: 0
+Time taken to pca : 0.001912593841552734375
+Time taken to estimate: 0.0004928112030029296875
+Time taken to Revert: 1.0013580322265625e-05
+Time taken to update : 2.88486480712890625e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 8
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 15329
+Time taken : 0.0061969757080078125
+Time taken to sort: 0
+Time taken to pca : 0.00190067291259765625
+Time taken to estimate: 0.0001900196075439453125
+Time taken to Revert: 0
+Time taken to update : 3.50475311279296875e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 8
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 15221
+Time taken : 0.005627155303955078125
+Time taken to sort: 0
+Time taken to pca : 0.001937389373779296875
+Time taken to estimate: 0.0001795291900634765625
+Time taken to Revert: 8.8214874267578125e-06
+Time taken to update : 3.0040740966796875e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 64
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 15170
+Time taken : 0.005382061004638671875
+Time taken to sort: 0
+Time taken to pca : 0.0017445087432861328125
+Time taken to estimate: 0.0002384185791015625
+Time taken to Revert: 4.76837158203125e-06
+Time taken to update : 3.0994415283203125e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 46
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 15038
+Time taken : 0.0108489990234375
+Time taken to sort: 0
+Time taken to pca : 0.0039260387420654296875
+Time taken to estimate: 0.0009195804595947265625
+Time taken to Revert: 7.8678131103515625e-06
+Time taken to update : 5.3882598876953125e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 70
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 15221
+Time taken : 0.0083179473876953125
+Time taken to sort: 0
+Time taken to pca : 0.002445697784423828125
+Time taken to estimate: 0.000370502471923828125
+Time taken to Revert: 1.3828277587890625e-05
+Time taken to update : 3.60012054443359375e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 31
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 15405
+Time taken : 0.00786590576171875
+Time taken to sort: 0
+Time taken to pca : 0.002152919769287109375
+Time taken to estimate: 0.00066089630126953125
+Time taken to Revert: 5.9604644775390625e-06
+Time taken to update : 5.1021575927734375e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 13
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 15165
+Time taken : 0.0058500766754150390625
+Time taken to sort: 0
+Time taken to pca : 0.001675128936767578125
+Time taken to estimate: 0.0004761219024658203125
+Time taken to Revert: 9.7751617431640625e-06
+Time taken to update : 3.50475311279296875e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 7
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 15124
+Time taken : 0.0066468715667724609375
+Time taken to sort: 0
+Time taken to pca : 0.0027310848236083984375
+Time taken to estimate: 0.0003106594085693359375
+Time taken to Revert: 1.12056732177734375e-05
+Time taken to update : 3.1948089599609375e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 11
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14799
+Time taken : 0.007753849029541015625
+Time taken to sort: 0
+Time taken to pca : 0.0019485950469970703125
+Time taken to estimate: 0.000336170196533203125
+Time taken to Revert: 1.50203704833984375e-05
+Time taken to update : 3.2901763916015625e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 54
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14920
+Time taken : 0.0055019855499267578125
+Time taken to sort: 0
+Time taken to pca : 0.0018103122711181640625
+Time taken to estimate: 0.0001666545867919921875
+Time taken to Revert: 1.430511474609375e-05
+Time taken to update : 3.3855438232421875e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 10
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 15221
+Time taken : 0.0076539516448974609375
+Time taken to sort: 0
+Time taken to pca : 0.0023820400238037109375
+Time taken to estimate: 0.000360965728759765625
+Time taken to Revert: 1.21593475341796875e-05
+Time taken to update : 4.100799560546875e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 17
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 15096
+Time taken : 0.0068061351776123046875
+Time taken to sort: 0
+Time taken to pca : 0.00206279754638671875
+Time taken to estimate: 0.0004403591156005859375
+Time taken to Revert: 3.98159027099609375e-05
+Time taken to update : 4.00543212890625e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 6
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 15011
+Time taken : 0.0056760311126708984375
+Time taken to sort: 0
+Time taken to pca : 0.001725673675537109375
+Time taken to estimate: 0.0002593994140625
+Time taken to Revert: 1.40666961669921875e-05
+Time taken to update : 3.60012054443359375e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 7
+Received input point cloud - Seq: 0, Stamp: 0, Point count: 14898
+Time taken : 0.011229991912841796875
+Time taken to sort: 0
+Time taken to pca : 0.00207996368408203125
+Time taken to estimate: 0.0004413127899169921875
+Time taken to Revert: 5.9604644775390625e-06
+Time taken to update : 3.69548797607421875e-05
+Sending output point cloud - Seq: 0, Stamp: 0, Point count: 12
+[c node] received stop event
+[c node] ERROR: unexpected end of event
+exit patchwork-plusplus ...

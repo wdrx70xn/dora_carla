@@ -1,0 +1,11 @@
+node_routing_core
+Received control message with type: Is_stop
+Received control message with type: Is_stop
+Received control message with type: Is_stop
+Received control message with type: Is_stop
+Received control message with type: Is_stop
+Received control message with type: Is_stop
+Received control message with type: Is_stop
+Received control message with type: Is_stop
+Received control message with type: Is_stop
+Received control message with type: Is_stop

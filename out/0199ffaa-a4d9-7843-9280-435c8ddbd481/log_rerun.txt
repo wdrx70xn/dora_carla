@@ -1,0 +1,6 @@
+rerun_test
+PATH Loaded 181
+[PATH]SUCCESS to Rerun !! 
+[c node] received stop event
+[c node] ERROR: unexpected end of event
+END rerun_test

@@ -1,0 +1,10 @@
+[ERROR] Failed to initialize dora context.
+[INFO] Initializing dora context from environment.
+[2m2024-10-16T05:07:07.286757Z[0m [31mERROR[0m [2mdora_node_api_c[0m[2m:[0m failed to initialize node
+
+Caused by:
+   0: failed to init event stream
+   1: subscribe failed: Node gnss_ekf exited before initializing dora. For more information, run `dora logs 019293b8-f7fa-7bc3-bcc3-f68f7f4b9b00 gnss_ekf`.
+
+Location:
+    apis/rust/node/src/event_stream/mod.rs:101:17

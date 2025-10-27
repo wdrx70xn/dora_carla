@@ -1,0 +1,7833 @@
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+准备发送数据: {
+    "header": {
+        "frame_id": "",
+        "stamp": {
+            "nanosec": 0,
+            "sec": 0
+        }
+    },
+    "orientation": {
+        "Heading": 0.0,
+        "Pitch": 0.0,
+        "Roll": 0.0,
+        "w": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "position": {
+        "vx": 0.0,
+        "vy": 0.0,
+        "vz": 0.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    }
+}
+数据发送成功，输出 ID: DoraGnssPose
+[c node] received stop event
+[c node] ERROR: unexpected end of event
+exit ekf fusion node ...

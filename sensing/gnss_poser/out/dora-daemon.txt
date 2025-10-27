@@ -1,0 +1,61 @@
+2024-10-15T13:22:25.157393Z  INFO dora_daemon::coordinator: Connected to dora-coordinator at 127.0.0.1:53290
+2024-10-15T13:22:46.689794Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/nvidia/disk/dora_project/code0722/dora-hardware/vendors/gnss/CGI_610/build/drive_dora
+2024-10-15T13:22:46.726183Z  INFO run_inner{self.machine_id=}: dora_daemon: all nodes are ready, starting dataflow `01929058-6b1f-7d8b-8e5d-ebe918cae94f`
+2024-10-15T13:22:46.742037Z  INFO run_inner{self.machine_id=}: dora_daemon: Dataflow `01929058-6b1f-7d8b-8e5d-ebe918cae94f` finished on machine ``
+2024-10-16T05:03:59.372320Z  INFO dora_daemon::coordinator: Connected to dora-coordinator at 127.0.0.1:53290
+2024-10-16T05:04:09.698702Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/nvidia/disk/dora_project/code0722/dora-hardware/vendors/gnss/CGI_610/build/drive_dora
+2024-10-16T05:04:09.726096Z  INFO run_inner{self.machine_id=}: dora_daemon: all nodes are ready, starting dataflow `019293b6-47dd-756f-8517-0d724a95467d`
+2024-10-16T05:05:14.594863Z  INFO run_inner{self.machine_id=}: dora_daemon: node 019293b6-47dd-756f-8517-0d724a95467d/gnss finished successfully
+2024-10-16T05:05:14.595854Z  INFO run_inner{self.machine_id=}: dora_daemon: Dataflow `019293b6-47dd-756f-8517-0d724a95467d` finished on machine ``
+2024-10-16T05:06:03.173791Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/nvidia/disk/dora_project/code0722/dora-hardware/vendors/gnss/CGI_610/build/drive_dora
+2024-10-16T05:06:03.178353Z  INFO run_inner{self.machine_id=}: dora_daemon: all nodes are ready, starting dataflow `019293b8-0324-7e33-9efe-642e09d5ecf2`
+2024-10-16T05:06:50.824073Z  INFO run_inner{self.machine_id=}: dora_daemon: received destroy command -> exiting
+2024-10-16T05:06:54.445316Z  INFO dora_daemon::coordinator: Connected to dora-coordinator at 127.0.0.1:53290
+2024-10-16T05:07:05.854630Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/nvidia/disk/dora_project/code0722/dora-hardware/vendors/gnss/CGI_610/build/drive_dora
+2024-10-16T05:07:05.858413Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/nvidia/disk/dora_project/code0722/sensing/gnss_poser/build/gnss_poser_core
+2024-10-16T05:07:05.861665Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/nvidia/disk/dora_project/code0722/localization/ekf_localizer/gnss_ekf
+2024-10-16T05:07:05.864950Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/nvidia/disk/indoorslam/sensing/gnss_poser/pubroad
+2024-10-16T05:07:05.867699Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/nvidia/disk/dora_project/code0722/map/road_line_publisher/build/road_lane_publisher_node
+2024-10-16T05:07:05.871643Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/nvidia/disk/dora_project/code0722/planning/mission_planning/task_pub/build/task_pub_node
+2024-10-16T05:07:05.874585Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/nvidia/disk/dora_project/code0722/planning/mission_planning/task_exc/build/task_exc_node
+2024-10-16T05:07:05.877700Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/nvidia/disk/dora_project/code0722/planning/routing_planning/build/routing_planning_node
+2024-10-16T05:07:05.878108Z  WARN dora_daemon::node_communication: failed to register node 019293b8-f7fa-7bc3-bcc3-f68f7f4b9b00/gnss_ekf: version mismatch: message format v0.3.2 is not compatible with expected message format v0.4.0
+2024-10-16T05:07:05.878197Z  WARN dora_daemon::node_communication: failed to register node 019293b8-f7fa-7bc3-bcc3-f68f7f4b9b00/pub_road: version mismatch: message format v0.3.2 is not compatible with expected message format v0.4.0
+2024-10-16T05:07:05.878450Z  INFO dora_daemon::node_communication: channel disconnected before register message
+2024-10-16T05:07:05.878938Z  INFO dora_daemon::node_communication: channel disconnected before register message
+2024-10-16T05:07:05.881719Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/nvidia/disk/dora_project/code0722/control/vehicle_control/vehicle_chassis_n3/build/vehicle_chassis_node
+2024-10-16T05:07:05.885075Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/nvidia/disk/dora_project/code0722/control/vehicle_control/lon_controller/build/lon_controller_node
+2024-10-16T05:07:05.919670Z  WARN dora_daemon::node_communication: failed to register node 019293b8-f7fa-7bc3-bcc3-f68f7f4b9b00/gnss_poser: version mismatch: message format v0.3.2 is not compatible with expected message format v0.4.0
+2024-10-16T05:07:05.920272Z  INFO dora_daemon::node_communication: channel disconnected before register message
+2024-10-16T05:07:05.920667Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/nvidia/disk/dora_project/code0722/control/vehicle_control/lat_controller/build/lat_controller_node
+2024-10-16T05:07:05.942602Z  WARN dora_daemon::node_communication: failed to register node 019293b8-f7fa-7bc3-bcc3-f68f7f4b9b00/task_exc_node: version mismatch: message format v0.3.2 is not compatible with expected message format v0.4.0
+2024-10-16T05:07:05.942608Z  WARN dora_daemon::node_communication: failed to register node 019293b8-f7fa-7bc3-bcc3-f68f7f4b9b00/task_pub_node: version mismatch: message format v0.3.2 is not compatible with expected message format v0.4.0
+2024-10-16T05:07:05.942923Z  INFO dora_daemon::node_communication: channel disconnected before register message
+2024-10-16T05:07:05.943130Z  INFO dora_daemon::node_communication: channel disconnected before register message
+2024-10-16T05:07:06.855127Z  WARN dora_daemon::node_communication: failed to register node 019293b8-f7fa-7bc3-bcc3-f68f7f4b9b00/road_lane_publisher_node: version mismatch: message format v0.3.2 is not compatible with expected message format v0.4.0
+2024-10-16T05:07:06.855127Z  WARN dora_daemon::node_communication: failed to register node 019293b8-f7fa-7bc3-bcc3-f68f7f4b9b00/latcontrol: version mismatch: message format v0.3.2 is not compatible with expected message format v0.4.0
+2024-10-16T05:07:06.855180Z  WARN dora_daemon::node_communication: failed to register node 019293b8-f7fa-7bc3-bcc3-f68f7f4b9b00/control: version mismatch: message format v0.3.2 is not compatible with expected message format v0.4.0
+2024-10-16T05:07:06.855197Z  WARN dora_daemon::node_communication: failed to register node 019293b8-f7fa-7bc3-bcc3-f68f7f4b9b00/lon_control: version mismatch: message format v0.3.2 is not compatible with expected message format v0.4.0
+2024-10-16T05:07:06.855374Z  INFO dora_daemon::node_communication: channel disconnected before register message
+2024-10-16T05:07:06.855616Z  INFO dora_daemon::node_communication: channel disconnected before register message
+2024-10-16T05:07:06.855699Z  INFO dora_daemon::node_communication: channel disconnected before register message
+2024-10-16T05:07:06.855833Z  INFO dora_daemon::node_communication: channel disconnected before register message
+2024-10-16T05:07:06.856011Z  WARN dora_daemon::node_communication: failed to register node 019293b8-f7fa-7bc3-bcc3-f68f7f4b9b00/planning: version mismatch: message format v0.3.2 is not compatible with expected message format v0.4.0
+2024-10-16T05:07:06.856795Z  INFO dora_daemon::node_communication: channel disconnected before register message
+2024-10-16T05:07:07.286442Z  INFO dora_daemon::node_communication: channel disconnected before register message
+2024-10-16T05:07:07.331448Z  INFO run_inner{self.machine_id=}: dora_daemon: marking `gnss` as cascading error caused by `gnss_ekf`
+2024-10-16T05:07:07.332657Z  INFO run_inner{self.machine_id=}: dora_daemon: Dataflow `019293b8-f7fa-7bc3-bcc3-f68f7f4b9b00` finished on machine ``
+2024-10-16T05:08:35.950075Z  INFO run_inner{self.machine_id=}: dora_daemon: received destroy command -> exiting
+2024-10-16T05:08:38.304879Z  INFO dora_daemon::coordinator: Connected to dora-coordinator at 127.0.0.1:53290
+2024-10-16T05:08:42.439569Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/nvidia/disk/dora_project/code0722/dora-hardware/vendors/gnss/CGI_610/build/drive_dora
+2024-10-16T05:08:42.444451Z  INFO run_inner{self.machine_id=}: dora_daemon: all nodes are ready, starting dataflow `019293ba-7145-7bb1-b779-06bab68508d9`
+2024-10-16T05:09:36.253015Z  INFO run_inner{self.machine_id=}: dora_daemon: node 019293ba-7145-7bb1-b779-06bab68508d9/gnss finished successfully
+2024-10-16T05:09:36.253867Z  INFO run_inner{self.machine_id=}: dora_daemon: Dataflow `019293ba-7145-7bb1-b779-06bab68508d9` finished on machine ``
+2024-10-16T05:09:40.002296Z  INFO run_inner{self.machine_id=}: dora_daemon: received destroy command -> exiting
+2024-10-16T05:13:33.340739Z  INFO dora_daemon::coordinator: Connected to dora-coordinator at 127.0.0.1:53290
+2024-10-16T05:13:51.070990Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/nvidia/disk/dora_project/code0722/sensing/gnss_poser/controldata
+2024-10-16T05:13:51.073975Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: /home/nvidia/disk/dora_project/code0722/planning/routing_planning/build/routing_planning_node
+2024-10-16T05:13:51.294025Z  WARN dora_daemon::node_communication: failed to register node 019293bf-26db-77fa-97aa-f319f73f24fd/road: version mismatch: message format v0.3.2 is not compatible with expected message format v0.4.0
+2024-10-16T05:13:51.294088Z  INFO dora_daemon::node_communication: channel disconnected before register message
+2024-10-16T05:13:51.551611Z  INFO run_inner{self.machine_id=}: dora_daemon: Dataflow `019293bf-26db-77fa-97aa-f319f73f24fd` finished on machine ``
+2024-10-16T05:14:03.527198Z  INFO run_inner{self.machine_id=}: dora_daemon: received destroy command -> exiting

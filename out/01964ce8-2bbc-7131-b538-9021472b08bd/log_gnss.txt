@@ -1,0 +1,1424 @@
+rslidar driver for dora (TCP and UDP version) 
+Starting UDP receiver on port 12345
+Dora context initialized successfully.
+TCP receiver started, listening on port 5005
+Waiting for a new connection...
+Socket created successfully.
+Socket bound to port 12345 successfully.
+New connection accepted.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.006386195399866916, "z": 366.8190002441406}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.819000
+Sending GNSS data: {
+    "altitude": 366.8190002441406,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.006386195399866916
+}
+GNSS data sent successfully.
+Received 178 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.20989802479743958, "y": 0.000167161226272583, "z": 9.807754516601562}, "gyroscope": {"x": 0.0, "y": 0.0, "z": 0.0}, "heading_deg": 359.98}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.209898, 0.000167, 9.807755, Gyro: 0.000000, 0.000000, 0.000000, Heading: 359.980000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.20989802479743958,
+        "y": 0.000167161226272583,
+        "z": 9.807754516601563
+    },
+    "gyroscope": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "heading_deg": 359.98,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.006386195399866916, "z": 366.8197937011719}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.819794
+Sending GNSS data: {
+    "altitude": 366.8197937011719,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.006386195399866916
+}
+GNSS data sent successfully.
+Received 235 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.19665299355983734, "y": 0.009999014437198639, "z": 10.118109703063965}, "gyroscope": {"x": 0.00010412665869807824, "y": 6.847074837423861e-05, "z": -3.370720150996931e-06}, "heading_deg": 359.98}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.196653, 0.009999, 10.118110, Gyro: 0.000104, 0.000068, -0.000003, Heading: 359.980000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.19665299355983734,
+        "y": 0.009999014437198639,
+        "z": 10.118109703063965
+    },
+    "gyroscope": {
+        "x": 0.00010412665869807824,
+        "y": 6.847074837423861e-05,
+        "z": -3.370720150996931e-06
+    },
+    "heading_deg": 359.98,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received data length: 95682
+Parsed point cloud with 15947 points.
+Received a stuffed point cloud message with 15947 points and pushed it to the queue.
+Waiting for a new connection...
+Processing input event, point cloud size: 15947
+Output sent successfully with id: pointcloud, length: 255168, point cloud size: 15947
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.006386194851578779, "z": 366.8209228515625}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.820923
+Sending GNSS data: {
+    "altitude": 366.8209228515625,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.006386194851578779
+}
+GNSS data sent successfully.
+Received 238 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.23306375741958618, "y": -0.00010885298252105713, "z": 9.947291374206543}, "gyroscope": {"x": -0.00022130324214231223, "y": 0.0002527553588151932, "z": -3.441631406531087e-06}, "heading_deg": 359.97}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.233064, -0.000109, 9.947291, Gyro: -0.000221, 0.000253, -0.000003, Heading: 359.970000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.23306375741958618,
+        "y": -0.00010885298252105713,
+        "z": 9.947291374206543
+    },
+    "gyroscope": {
+        "x": -0.00022130324214231223,
+        "y": 0.0002527553588151932,
+        "z": -3.441631406531087e-06
+    },
+    "heading_deg": 359.97,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.006386194851578779, "z": 366.8222961425781}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.822296
+Sending GNSS data: {
+    "altitude": 366.8222961425781,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.006386194851578779
+}
+GNSS data sent successfully.
+Received 233 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.21221277117729187, "y": -0.01016034185886383, "z": 9.90772819519043}, "gyroscope": {"x": 6.700529047520831e-05, "y": -7.015949086053297e-05, "z": -3.351561645104084e-06}, "heading_deg": 359.97}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.212213, -0.010160, 9.907728, Gyro: 0.000067, -0.000070, -0.000003, Heading: 359.970000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.21221277117729187,
+        "y": -0.01016034185886383,
+        "z": 9.90772819519043
+    },
+    "gyroscope": {
+        "x": 6.700529047520831e-05,
+        "y": -7.015949086053297e-05,
+        "z": -3.351561645104084e-06
+    },
+    "heading_deg": 359.97,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.006386194851578779, "z": 366.8236389160156}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.823639
+Sending GNSS data: {
+    "altitude": 366.8236389160156,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.006386194851578779
+}
+GNSS data sent successfully.
+Received 234 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.20966818928718567, "y": -0.0001379549503326416, "z": 9.78775405883789}, "gyroscope": {"x": 9.231299918610603e-05, "y": -3.69944900739938e-05, "z": -3.338047918077791e-06}, "heading_deg": 359.97}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.209668, -0.000138, 9.787754, Gyro: 0.000092, -0.000037, -0.000003, Heading: 359.970000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.20966818928718567,
+        "y": -0.0001379549503326416,
+        "z": 9.78775405883789
+    },
+    "gyroscope": {
+        "x": 9.231299918610603e-05,
+        "y": -3.69944900739938e-05,
+        "z": -3.338047918077791e-06
+    },
+    "heading_deg": 359.97,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.006386194851578779, "z": 366.8247985839844}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.824799
+Sending GNSS data: {
+    "altitude": 366.8247985839844,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.006386194851578779
+}
+GNSS data sent successfully.
+Received 237 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.20885828137397766, "y": -3.495067358016968e-05, "z": 9.747762680053711}, "gyroscope": {"x": 0.0003851053479593247, "y": 4.4522457756102085e-06, "z": -3.2383577490691096e-06}, "heading_deg": 359.97}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.208858, -0.000035, 9.747763, Gyro: 0.000385, 0.000004, -0.000003, Heading: 359.970000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.20885828137397766,
+        "y": -3.495067358016968e-05,
+        "z": 9.747762680053711
+    },
+    "gyroscope": {
+        "x": 0.0003851053479593247,
+        "y": 4.4522457756102085e-06,
+        "z": -3.2383577490691096e-06
+    },
+    "heading_deg": 359.97,
+    "id": "imu"
+}
+IMU data sent successfully.
+New connection accepted.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.006386195399866916, "z": 366.8258056640625}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.825806
+Sending GNSS data: {
+    "altitude": 366.8258056640625,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.006386195399866916
+}
+GNSS data sent successfully.
+Received 237 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.18887929618358612, "y": -0.009934231638908386, "z": 9.748190879821777}, "gyroscope": {"x": 0.00021496869157999754, "y": 0.00014318132889457047, "z": -3.1940194276103284e-06}, "heading_deg": 359.98}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.188879, -0.009934, 9.748191, Gyro: 0.000215, 0.000143, -0.000003, Heading: 359.980000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.18887929618358612,
+        "y": -0.009934231638908386,
+        "z": 9.748190879821777
+    },
+    "gyroscope": {
+        "x": 0.00021496869157999754,
+        "y": 0.00014318132889457047,
+        "z": -3.1940194276103284e-06
+    },
+    "heading_deg": 359.98,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.006386195399866916, "z": 366.8267517089844}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.826752
+Sending GNSS data: {
+    "altitude": 366.8267517089844,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.006386195399866916
+}
+GNSS data sent successfully.
+Received 234 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.22931331396102905, "y": 0.00011099874973297119, "z": 9.767329216003418}, "gyroscope": {"x": 0.00034788713674061, "y": -0.0001957900240086019, "z": -3.240182650188217e-06}, "heading_deg": 359.98}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.229313, 0.000111, 9.767329, Gyro: 0.000348, -0.000196, -0.000003, Heading: 359.980000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.22931331396102905,
+        "y": 0.00011099874973297119,
+        "z": 9.767329216003418
+    },
+    "gyroscope": {
+        "x": 0.00034788713674061,
+        "y": -0.0001957900240086019,
+        "z": -3.240182650188217e-06
+    },
+    "heading_deg": 359.98,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received data length: 96204
+Parsed point cloud with 16034 points.
+Received a stuffed point cloud message with 16034 points and pushed it to the queue.
+Waiting for a new connection...
+Processing input event, point cloud size: 16034
+Output sent successfully with id: pointcloud, length: 256560, point cloud size: 16034
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.006386195399866916, "z": 366.8274841308594}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.827484
+Sending GNSS data: {
+    "altitude": 366.8274841308594,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.006386195399866916
+}
+GNSS data sent successfully.
+Received 235 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.22864900529384613, "y": 0.010157287120819092, "z": 9.737336158752441}, "gyroscope": {"x": 0.00019326552865095437, "y": -7.387723599094898e-05, "z": -3.266601652285317e-06}, "heading_deg": 359.98}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.228649, 0.010157, 9.737336, Gyro: 0.000193, -0.000074, -0.000003, Heading: 359.980000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.22864900529384613,
+        "y": 0.010157287120819092,
+        "z": 9.737336158752441
+    },
+    "gyroscope": {
+        "x": 0.00019326552865095437,
+        "y": -7.387723599094898e-05,
+        "z": -3.266601652285317e-06
+    },
+    "heading_deg": 359.98,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 94 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.006386195399866916, "z": 366.82806396484375}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.828064
+Sending GNSS data: {
+    "altitude": 366.82806396484375,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.006386195399866916
+}
+GNSS data sent successfully.
+Received 235 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.188617542386055, "y": 0.0002628043293952942, "z": 9.738194465637207}, "gyroscope": {"x": 0.00022828853980172426, "y": -7.520239159930497e-05, "z": -3.2684411053196527e-06}, "heading_deg": 359.98}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.188618, 0.000263, 9.738194, Gyro: 0.000228, -0.000075, -0.000003, Heading: 359.980000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.188617542386055,
+        "y": 0.0002628043293952942,
+        "z": 9.738194465637207
+    },
+    "gyroscope": {
+        "x": 0.00022828853980172426,
+        "y": -7.520239159930497e-05,
+        "z": -3.2684411053196527e-06
+    },
+    "heading_deg": 359.98,
+    "id": "imu"
+}
+IMU data sent successfully.
+New connection accepted.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.006386195399866916, "z": 366.8284606933594}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.828461
+Sending GNSS data: {
+    "altitude": 366.8284606933594,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.006386195399866916
+}
+GNSS data sent successfully.
+Received 237 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.20862853527069092, "y": 0.00022821873426437378, "z": 9.73776626586914}, "gyroscope": {"x": -0.00011422603711253032, "y": 5.3602685511577874e-05, "z": -3.386340722499881e-06}, "heading_deg": 359.98}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.208629, 0.000228, 9.737766, Gyro: -0.000114, 0.000054, -0.000003, Heading: 359.980000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.20862853527069092,
+        "y": 0.00022821873426437378,
+        "z": 9.73776626586914
+    },
+    "gyroscope": {
+        "x": -0.00011422603711253032,
+        "y": 5.3602685511577874e-05,
+        "z": -3.386340722499881e-06
+    },
+    "heading_deg": 359.98,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 92 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.006386195399866916, "z": 366.828857421875}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.828857
+Sending GNSS data: {
+    "altitude": 366.828857421875,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.006386195399866916
+}
+GNSS data sent successfully.
+Received 235 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.21012791991233826, "y": 0.00022985786199569702, "z": 9.80774974822998}, "gyroscope": {"x": -9.503502951702103e-05, "y": 6.04427041253075e-05, "z": -3.3531737244629767e-06}, "heading_deg": 359.98}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.210128, 0.000230, 9.807750, Gyro: -0.000095, 0.000060, -0.000003, Heading: 359.980000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.21012791991233826,
+        "y": 0.00022985786199569702,
+        "z": 9.80774974822998
+    },
+    "gyroscope": {
+        "x": -9.503502951702103e-05,
+        "y": 6.04427041253075e-05,
+        "z": -3.3531737244629767e-06
+    },
+    "heading_deg": 359.98,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received data length: 96300
+Parsed point cloud with 16050 points.
+Received a stuffed point cloud message with 16050 points and pushed it to the queue.
+Waiting for a new connection...
+Processing input event, point cloud size: 16050
+Output sent successfully with id: pointcloud, length: 256816, point cloud size: 16050
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.006386195399866916, "z": 366.8291320800781}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.829132
+Sending GNSS data: {
+    "altitude": 366.8291320800781,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.006386195399866916
+}
+GNSS data sent successfully.
+Received 237 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.20905691385269165, "y": 0.00022867321968078613, "z": 9.757761001586914}, "gyroscope": {"x": -0.00011768942204071209, "y": 6.868605123599991e-05, "z": -5.122522452438716e-06}, "heading_deg": 359.98}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.209057, 0.000229, 9.757761, Gyro: -0.000118, 0.000069, -0.000005, Heading: 359.980000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.20905691385269165,
+        "y": 0.00022867321968078613,
+        "z": 9.757761001586914
+    },
+    "gyroscope": {
+        "x": -0.00011768942204071209,
+        "y": 6.868605123599991e-05,
+        "z": -5.122522452438716e-06
+    },
+    "heading_deg": 359.98,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.006386195399866916, "z": 366.8291320800781}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.829132
+Sending GNSS data: {
+    "altitude": 366.8291320800781,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.006386195399866916
+}
+GNSS data sent successfully.
+Received 180 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.20777174830436707, "y": 0.00022726505994796753, "z": 9.697774887084961}, "gyroscope": {"x": 0.0, "y": 0.0, "z": 0.0}, "heading_deg": 359.98}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.207772, 0.000227, 9.697775, Gyro: 0.000000, 0.000000, 0.000000, Heading: 359.980000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.20777174830436707,
+        "y": 0.00022726505994796753,
+        "z": 9.697774887084961
+    },
+    "gyroscope": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "heading_deg": 359.98,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.006386195399866916, "z": 366.8293151855469}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.829315
+Sending GNSS data: {
+    "altitude": 366.8293151855469,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.006386195399866916
+}
+GNSS data sent successfully.
+Received 234 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.21159663796424866, "y": -0.00966855138540268, "z": 9.877734184265137}, "gyroscope": {"x": 0.0002718674368225038, "y": -0.0001266713661607355, "z": -5.131630587129621e-06}, "heading_deg": 359.97}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.211597, -0.009669, 9.877734, Gyro: 0.000272, -0.000127, -0.000005, Heading: 359.970000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.21159663796424866,
+        "y": -0.00966855138540268,
+        "z": 9.877734184265137
+    },
+    "gyroscope": {
+        "x": 0.0002718674368225038,
+        "y": -0.0001266713661607355,
+        "z": -5.131630587129621e-06
+    },
+    "heading_deg": 359.97,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.006386195399866916, "z": 366.8294372558594}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.829437
+Sending GNSS data: {
+    "altitude": 366.8294372558594,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.006386195399866916
+}
+GNSS data sent successfully.
+Received 233 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.2097194641828537, "y": 0.010338865220546722, "z": 9.787753105163574}, "gyroscope": {"x": -0.0007392655243165791, "y": 9.264214895665646e-06, "z": -5.098355359223206e-06}, "heading_deg": 359.97}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.209719, 0.010339, 9.787753, Gyro: -0.000739, 0.000009, -0.000005, Heading: 359.970000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.2097194641828537,
+        "y": 0.010338865220546722,
+        "z": 9.787753105163574
+    },
+    "gyroscope": {
+        "x": -0.0007392655243165791,
+        "y": 9.264214895665646e-06,
+        "z": -5.098355359223206e-06
+    },
+    "heading_deg": 359.97,
+    "id": "imu"
+}
+IMU data sent successfully.
+New connection accepted.
+Received 94 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.006386195399866916, "z": 366.82952880859375}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.829529
+Sending GNSS data: {
+    "altitude": 366.82952880859375,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.006386195399866916
+}
+GNSS data sent successfully.
+Received 236 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.20972466468811035, "y": 0.010281510651111603, "z": 9.787753105163574}, "gyroscope": {"x": -0.00015965041529852897, "y": 1.2238378985784948e-05, "z": -5.090356808068464e-06}, "heading_deg": 359.98}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.209725, 0.010282, 9.787753, Gyro: -0.000160, 0.000012, -0.000005, Heading: 359.980000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.20972466468811035,
+        "y": 0.010281510651111603,
+        "z": 9.787753105163574
+    },
+    "gyroscope": {
+        "x": -0.00015965041529852897,
+        "y": 1.2238378985784948e-05,
+        "z": -5.090356808068464e-06
+    },
+    "heading_deg": 359.98,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 91 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.006386195399866916, "z": 366.82958984375}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.829590
+Sending GNSS data: {
+    "altitude": 366.82958984375,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.006386195399866916
+}
+GNSS data sent successfully.
+Received 236 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.19016039371490479, "y": -0.01962040364742279, "z": 9.808178901672363}, "gyroscope": {"x": 0.00021242760703898966, "y": -0.00010385220230091363, "z": -5.171167686057743e-06}, "heading_deg": 359.97}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.190160, -0.019620, 9.808179, Gyro: 0.000212, -0.000104, -0.000005, Heading: 359.970000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.19016039371490479,
+        "y": -0.01962040364742279,
+        "z": 9.808178901672363
+    },
+    "gyroscope": {
+        "x": 0.00021242760703898966,
+        "y": -0.00010385220230091363,
+        "z": -5.171167686057743e-06
+    },
+    "heading_deg": 359.97,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received data length: 96150
+Parsed point cloud with 16025 points.
+Received a stuffed point cloud message with 16025 points and pushed it to the queue.
+Waiting for a new connection...
+Processing input event, point cloud size: 16025
+Output sent successfully with id: pointcloud, length: 256416, point cloud size: 16025
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.006386195399866916, "z": 366.8296813964844}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.829681
+Sending GNSS data: {
+    "altitude": 366.8296813964844,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.006386195399866916
+}
+GNSS data sent successfully.
+Received 232 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.2301955223083496, "y": 0.010424889624118805, "z": 9.807319641113281}, "gyroscope": {"x": 0.000135742622660473, "y": 0.00014739461767021567, "z": -5.081211838842137e-06}, "heading_deg": 359.97}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.230196, 0.010425, 9.807320, Gyro: 0.000136, 0.000147, -0.000005, Heading: 359.970000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.2301955223083496,
+        "y": 0.010424889624118805,
+        "z": 9.807319641113281
+    },
+    "gyroscope": {
+        "x": 0.000135742622660473,
+        "y": 0.00014739461767021567,
+        "z": -5.081211838842137e-06
+    },
+    "heading_deg": 359.97,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.006386195399866916, "z": 366.8297424316406}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.829742
+Sending GNSS data: {
+    "altitude": 366.8297424316406,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.006386195399866916
+}
+GNSS data sent successfully.
+Received 236 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.21041005849838257, "y": 0.0004340261220932007, "z": 9.81774616241455}, "gyroscope": {"x": -0.00011201646702829748, "y": 1.4622986782342196e-05, "z": -5.089130354463123e-06}, "heading_deg": 359.97}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.210410, 0.000434, 9.817746, Gyro: -0.000112, 0.000015, -0.000005, Heading: 359.970000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.21041005849838257,
+        "y": 0.0004340261220932007,
+        "z": 9.81774616241455
+    },
+    "gyroscope": {
+        "x": -0.00011201646702829748,
+        "y": 1.4622986782342196e-05,
+        "z": -5.089130354463123e-06
+    },
+    "heading_deg": 359.97,
+    "id": "imu"
+}
+IMU data sent successfully.
+New connection accepted.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.006386195399866916, "z": 366.8298034667969}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.829803
+Sending GNSS data: {
+    "altitude": 366.8298034667969,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.006386195399866916
+}
+GNSS data sent successfully.
+Received 238 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.20955820381641388, "y": 0.00039058178663253784, "z": 9.777755737304688}, "gyroscope": {"x": -0.00018800988618750125, "y": 1.1049705790355802e-05, "z": -5.095645974506624e-06}, "heading_deg": 359.97}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.209558, 0.000391, 9.777756, Gyro: -0.000188, 0.000011, -0.000005, Heading: 359.970000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.20955820381641388,
+        "y": 0.00039058178663253784,
+        "z": 9.777755737304688
+    },
+    "gyroscope": {
+        "x": -0.00018800988618750125,
+        "y": 1.1049705790355802e-05,
+        "z": -5.095645974506624e-06
+    },
+    "heading_deg": 359.97,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.0063861959481550535, "z": 366.829833984375}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.829834
+Sending GNSS data: {
+    "altitude": 366.829833984375,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.0063861959481550535
+}
+GNSS data sent successfully.
+Received 236 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.21041005849838257, "y": 0.00046540796756744385, "z": 9.81774616241455}, "gyroscope": {"x": -0.00011644087499007583, "y": 1.8075661500915885e-06, "z": -5.06417700307793e-06}, "heading_deg": 359.98}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.210410, 0.000465, 9.817746, Gyro: -0.000116, 0.000002, -0.000005, Heading: 359.980000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.21041005849838257,
+        "y": 0.00046540796756744385,
+        "z": 9.81774616241455
+    },
+    "gyroscope": {
+        "x": -0.00011644087499007583,
+        "y": 1.8075661500915885e-06,
+        "z": -5.06417700307793e-06
+    },
+    "heading_deg": 359.98,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received data length: 93774
+Parsed point cloud with 15629 points.
+Received a stuffed point cloud message with 15629 points and pushed it to the queue.
+Waiting for a new connection...
+Processing input event, point cloud size: 15629
+Output sent successfully with id: pointcloud, length: 250080, point cloud size: 15629
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.0063861959481550535, "z": 366.829833984375}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.829834
+Sending GNSS data: {
+    "altitude": 366.829833984375,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.0063861959481550535
+}
+GNSS data sent successfully.
+Received 239 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.20976725220680237, "y": 0.00046397000551223755, "z": 9.787752151489258}, "gyroscope": {"x": -0.00029329248354770243, "y": -0.00011849224392790347, "z": -5.125237294123508e-06}, "heading_deg": 359.98}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.209767, 0.000464, 9.787752, Gyro: -0.000293, -0.000118, -0.000005, Heading: 359.980000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.20976725220680237,
+        "y": 0.00046397000551223755,
+        "z": 9.787752151489258
+    },
+    "gyroscope": {
+        "x": -0.00029329248354770243,
+        "y": -0.00011849224392790347,
+        "z": -5.125237294123508e-06
+    },
+    "heading_deg": 359.98,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.0063861959481550535, "z": 366.829833984375}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.829834
+Sending GNSS data: {
+    "altitude": 366.829833984375,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.0063861959481550535
+}
+GNSS data sent successfully.
+Received 236 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.21019577980041504, "y": 0.00046493858098983765, "z": 9.807747840881348}, "gyroscope": {"x": 5.231802788330242e-06, "y": 1.7869046132545918e-05, "z": -5.004361355531728e-06}, "heading_deg": 359.98}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.210196, 0.000465, 9.807748, Gyro: 0.000005, 0.000018, -0.000005, Heading: 359.980000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.21019577980041504,
+        "y": 0.00046493858098983765,
+        "z": 9.807747840881348
+    },
+    "gyroscope": {
+        "x": 5.231802788330242e-06,
+        "y": 1.7869046132545918e-05,
+        "z": -5.004361355531728e-06
+    },
+    "heading_deg": 359.98,
+    "id": "imu"
+}
+IMU data sent successfully.
+New connection accepted.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.0063861959481550535, "z": 366.829833984375}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.829834
+Sending GNSS data: {
+    "altitude": 366.829833984375,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.0063861959481550535
+}
+GNSS data sent successfully.
+Received 238 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.21019577980041504, "y": 0.00046493858098983765, "z": 9.807747840881348}, "gyroscope": {"x": 0.00018486152112018317, "y": -0.00010220700642094016, "z": -5.085964858153602e-06}, "heading_deg": 359.98}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.210196, 0.000465, 9.807748, Gyro: 0.000185, -0.000102, -0.000005, Heading: 359.980000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.21019577980041504,
+        "y": 0.00046493858098983765,
+        "z": 9.807747840881348
+    },
+    "gyroscope": {
+        "x": 0.00018486152112018317,
+        "y": -0.00010220700642094016,
+        "z": -5.085964858153602e-06
+    },
+    "heading_deg": 359.98,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274338855385395, "y": -0.0063861959481550535, "z": 366.829833984375}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.829834
+Sending GNSS data: {
+    "altitude": 366.829833984375,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274338855385395,
+    "longitude": -0.0063861959481550535
+}
+GNSS data sent successfully.
+Received 236 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.21019577980041504, "y": 0.00046493858098983765, "z": 9.807747840881348}, "gyroscope": {"x": -2.10833823075518e-05, "y": 1.8232502043247223e-05, "z": -5.073932243249146e-06}, "heading_deg": 359.98}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.210196, 0.000465, 9.807748, Gyro: -0.000021, 0.000018, -0.000005, Heading: 359.980000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.21019577980041504,
+        "y": 0.00046493858098983765,
+        "z": 9.807747840881348
+    },
+    "gyroscope": {
+        "x": -2.10833823075518e-05,
+        "y": 1.8232502043247223e-05,
+        "z": -5.073932243249146e-06
+    },
+    "heading_deg": 359.98,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received data length: 93642
+Parsed point cloud with 15607 points.
+Received a stuffed point cloud message with 15607 points and pushed it to the queue.
+Waiting for a new connection...
+Processing input event, point cloud size: 15607
+Output sent successfully with id: pointcloud, length: 249728, point cloud size: 15607
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274336442918013, "y": -0.006386195399866916, "z": 366.8297119140625}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.829712
+Sending GNSS data: {
+    "altitude": 366.8297119140625,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274336442918013,
+    "longitude": -0.006386195399866916
+}
+GNSS data sent successfully.
+Received 233 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": 0.8136528730392456, "y": 0.010685563087463379, "z": 9.779363632202148}, "gyroscope": {"x": -1.7268583178520203e-05, "y": -0.01914921961724758, "z": -0.00045589389628730714}, "heading_deg": 359.98}
+JSON data parsed successfully.
+Received IMU data: Accel: 0.813653, 0.010686, 9.779364, Gyro: -0.000017, -0.019149, -0.000456, Heading: 359.980000
+Sending IMU data: {
+    "accelerometer": {
+        "x": 0.8136528730392456,
+        "y": 0.010685563087463379,
+        "z": 9.779363632202148
+    },
+    "gyroscope": {
+        "x": -1.7268583178520203e-05,
+        "y": -0.01914921961724758,
+        "z": -0.00045589389628730714
+    },
+    "heading_deg": 359.98,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 94 bytes of data.
+Received data: {"id": "gnss", "x": -0.032743193363302225, "y": -0.006386194851578779, "z": 366.8290100097656}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.829010
+Sending GNSS data: {
+    "altitude": 366.8290100097656,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.032743193363302225,
+    "longitude": -0.006386194851578779
+}
+GNSS data sent successfully.
+Received 227 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": 6.410553932189941, "y": 0.03516864776611328, "z": 9.70777416229248}, "gyroscope": {"x": -0.0007634647190570831, "y": -0.03133056312799454, "z": 0.0004314379475545138}, "heading_deg": 359.95}
+JSON data parsed successfully.
+Received IMU data: Accel: 6.410554, 0.035169, 9.707774, Gyro: -0.000763, -0.031331, 0.000431, Heading: 359.950000
+Sending IMU data: {
+    "accelerometer": {
+        "x": 6.410553932189941,
+        "y": 0.03516864776611328,
+        "z": 9.70777416229248
+    },
+    "gyroscope": {
+        "x": -0.0007634647190570831,
+        "y": -0.03133056312799454,
+        "z": 0.0004314379475545138
+    },
+    "heading_deg": 359.95,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274292799190448, "y": -0.006386194851578779, "z": 366.8282470703125}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.828247
+Sending GNSS data: {
+    "altitude": 366.8282470703125,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274292799190448,
+    "longitude": -0.006386194851578779
+}
+GNSS data sent successfully.
+Received 230 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": 4.018383026123047, "y": -0.05591917037963867, "z": 9.856037139892578}, "gyroscope": {"x": 0.0007940791547298431, "y": -0.015938501805067062, "z": -0.0012333602644503117}, "heading_deg": 359.94}
+JSON data parsed successfully.
+Received IMU data: Accel: 4.018383, -0.055919, 9.856037, Gyro: 0.000794, -0.015939, -0.001233, Heading: 359.940000
+Sending IMU data: {
+    "accelerometer": {
+        "x": 4.018383026123047,
+        "y": -0.05591917037963867,
+        "z": 9.856037139892578
+    },
+    "gyroscope": {
+        "x": 0.0007940791547298431,
+        "y": -0.015938501805067062,
+        "z": -0.0012333602644503117
+    },
+    "heading_deg": 359.94,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 94 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274260779167548, "y": -0.0063861959481550535, "z": 366.8273010253906}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032743, y: -0.006386, z: 366.827301
+Sending GNSS data: {
+    "altitude": 366.8273010253906,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274260779167548,
+    "longitude": -0.0063861959481550535
+}
+GNSS data sent successfully.
+Received 228 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": 2.2653422355651855, "y": -0.01811671257019043, "z": 9.78210163116455}, "gyroscope": {"x": 9.556394070386887e-05, "y": -0.009566479362547398, "z": 0.001703205518424511}, "heading_deg": 359.96}
+JSON data parsed successfully.
+Received IMU data: Accel: 2.265342, -0.018117, 9.782102, Gyro: 0.000096, -0.009566, 0.001703, Heading: 359.960000
+Sending IMU data: {
+    "accelerometer": {
+        "x": 2.2653422355651855,
+        "y": -0.01811671257019043,
+        "z": 9.78210163116455
+    },
+    "gyroscope": {
+        "x": 9.556394070386887e-05,
+        "y": -0.009566479362547398,
+        "z": 0.001703205518424511
+    },
+    "heading_deg": 359.96,
+    "id": "imu"
+}
+IMU data sent successfully.
+New connection accepted.
+Received 94 bytes of data.
+Received data: {"id": "gnss", "x": -0.032742267853095086, "y": -0.006386197593019466, "z": 366.8265075683594}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032742, y: -0.006386, z: 366.826508
+Sending GNSS data: {
+    "altitude": 366.8265075683594,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.032742267853095086,
+    "longitude": -0.006386197593019466
+}
+GNSS data sent successfully.
+Received 230 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": 0.7231549024581909, "y": -0.029436111450195312, "z": 9.89451789855957}, "gyroscope": {"x": 0.00020490912720561028, "y": 0.0067515564151108265, "z": 0.015389911830425262}, "heading_deg": 359.98}
+JSON data parsed successfully.
+Received IMU data: Accel: 0.723155, -0.029436, 9.894518, Gyro: 0.000205, 0.006752, 0.015390, Heading: 359.980000
+Sending IMU data: {
+    "accelerometer": {
+        "x": 0.7231549024581909,
+        "y": -0.029436111450195313,
+        "z": 9.89451789855957
+    },
+    "gyroscope": {
+        "x": 0.00020490912720561028,
+        "y": 0.0067515564151108265,
+        "z": 0.015389911830425262
+    },
+    "heading_deg": 359.98,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 94 bytes of data.
+Received data: {"id": "gnss", "x": -0.032741921335045276, "y": -0.006386199237883877, "z": 366.8258056640625}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032742, y: -0.006386, z: 366.825806
+Sending GNSS data: {
+    "altitude": 366.8258056640625,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.032741921335045276,
+    "longitude": -0.006386199237883877
+}
+GNSS data sent successfully.
+Received 229 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": 0.04094240814447403, "y": 0.02029634267091751, "z": 9.842373847961426}, "gyroscope": {"x": 6.695790216326714e-05, "y": 0.005228998139500618, "z": -0.005429522600024939}, "heading_deg": 359.99}
+JSON data parsed successfully.
+Received IMU data: Accel: 0.040942, 0.020296, 9.842374, Gyro: 0.000067, 0.005229, -0.005430, Heading: 359.990000
+Sending IMU data: {
+    "accelerometer": {
+        "x": 0.04094240814447403,
+        "y": 0.02029634267091751,
+        "z": 9.842373847961426
+    },
+    "gyroscope": {
+        "x": 6.695790216326714e-05,
+        "y": 0.005228998139500618,
+        "z": -0.005429522600024939
+    },
+    "heading_deg": 359.99,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received data length: 93210
+Parsed point cloud with 15535 points.
+Received a stuffed point cloud message with 15535 points and pushed it to the queue.
+Waiting for a new connection...
+Processing input event, point cloud size: 15535
+Output sent successfully with id: pointcloud, length: 248576, point cloud size: 15535
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274156823752605, "y": -0.006386199786172014, "z": 366.8251037597656}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032742, y: -0.006386, z: 366.825104
+Sending GNSS data: {
+    "altitude": 366.8251037597656,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274156823752605,
+    "longitude": -0.006386199786172014
+}
+GNSS data sent successfully.
+Received 228 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": 0.13791730999946594, "y": 0.00036819279193878174, "z": 9.814249038696289}, "gyroscope": {"x": 0.001119714230298996, "y": 0.004637887701392174, "z": 0.0057978020049631596}, "heading_deg": 0.0}
+JSON data parsed successfully.
+Received IMU data: Accel: 0.137917, 0.000368, 9.814249, Gyro: 0.001120, 0.004638, 0.005798, Heading: 0.000000
+Sending IMU data: {
+    "accelerometer": {
+        "x": 0.13791730999946594,
+        "y": 0.00036819279193878174,
+        "z": 9.814249038696289
+    },
+    "gyroscope": {
+        "x": 0.001119714230298996,
+        "y": 0.004637887701392174,
+        "z": 0.0057978020049631596
+    },
+    "heading_deg": 0.0,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274119759481664, "y": -0.006386200334460152, "z": 366.8243408203125}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032741, y: -0.006386, z: 366.824341
+Sending GNSS data: {
+    "altitude": 366.8243408203125,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274119759481664,
+    "longitude": -0.006386200334460152
+}
+GNSS data sent successfully.
+Received 228 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": 0.6156728863716125, "y": 0.020432651042938232, "z": 9.783344268798828}, "gyroscope": {"x": 9.633088484406471e-05, "y": 0.006426349747925997, "z": -0.0002564539317972958}, "heading_deg": 0.01}
+JSON data parsed successfully.
+Received IMU data: Accel: 0.615673, 0.020433, 9.783344, Gyro: 0.000096, 0.006426, -0.000256, Heading: 0.010000
+Sending IMU data: {
+    "accelerometer": {
+        "x": 0.6156728863716125,
+        "y": 0.020432651042938232,
+        "z": 9.783344268798828
+    },
+    "gyroscope": {
+        "x": 9.633088484406471e-05,
+        "y": 0.006426349747925997,
+        "z": -0.0002564539317972958
+    },
+    "heading_deg": 0.01,
+    "id": "imu"
+}
+IMU data sent successfully.
+New connection accepted.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274082475893181, "y": -0.006386200334460152, "z": 366.8235168457031}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032741, y: -0.006386, z: 366.823517
+Sending GNSS data: {
+    "altitude": 366.8235168457031,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274082475893181,
+    "longitude": -0.006386200334460152
+}
+GNSS data sent successfully.
+Received 229 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.06852442026138306, "y": 0.040522992610931396, "z": 9.810492515563965}, "gyroscope": {"x": 3.109220415353775e-06, "y": 0.007710849866271019, "z": 0.0019311875803396106}, "heading_deg": 0.01}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.068524, 0.040523, 9.810493, Gyro: 0.000003, 0.007711, 0.001931, Heading: 0.010000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.06852442026138306,
+        "y": 0.040522992610931396,
+        "z": 9.810492515563965
+    },
+    "gyroscope": {
+        "x": 3.109220415353775e-06,
+        "y": 0.007710849866271019,
+        "z": 0.0019311875803396106
+    },
+    "heading_deg": 0.01,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 95 bytes of data.
+Received data: {"id": "gnss", "x": -0.032740454116208184, "y": -0.006386200334460152, "z": 366.82269287109375}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032740, y: -0.006386, z: 366.822693
+Sending GNSS data: {
+    "altitude": 366.82269287109375,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.032740454116208184,
+    "longitude": -0.006386200334460152
+}
+GNSS data sent successfully.
+Received 230 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.23196841776371002, "y": -0.019286878407001495, "z": 9.797337532043457}, "gyroscope": {"x": -0.000247409101575613, "y": 0.007608107291162014, "z": 0.0006400172132998705}, "heading_deg": 0.01}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.231968, -0.019287, 9.797338, Gyro: -0.000247, 0.007608, 0.000640, Heading: 0.010000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.23196841776371002,
+        "y": -0.019286878407001495,
+        "z": 9.797337532043457
+    },
+    "gyroscope": {
+        "x": -0.000247409101575613,
+        "y": 0.007608107291162014,
+        "z": 0.0006400172132998705
+    },
+    "heading_deg": 0.01,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received data length: 93234
+Parsed point cloud with 15539 points.
+Received a stuffed point cloud message with 15539 points and pushed it to the queue.
+Waiting for a new connection...
+Processing input event, point cloud size: 15539
+Output sent successfully with id: pointcloud, length: 248640, point cloud size: 15539
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03274007689404357, "y": -0.006386200334460152, "z": 366.8219299316406}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032740, y: -0.006386, z: 366.821930
+Sending GNSS data: {
+    "altitude": 366.8219299316406,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03274007689404357,
+    "longitude": -0.006386200334460152
+}
+GNSS data sent successfully.
+Received 230 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.11590658128261566, "y": 0.02045264281332493, "z": 9.839641571044922}, "gyroscope": {"x": -0.0006034825928509235, "y": 0.005768973380327225, "z": -0.0016947478288784623}, "heading_deg": 0.01}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.115907, 0.020453, 9.839642, Gyro: -0.000603, 0.005769, -0.001695, Heading: 0.010000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.11590658128261566,
+        "y": 0.02045264281332493,
+        "z": 9.839641571044922
+    },
+    "gyroscope": {
+        "x": -0.0006034825928509235,
+        "y": 0.005768973380327225,
+        "z": -0.0016947478288784623
+    },
+    "heading_deg": 0.01,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 92 bytes of data.
+Received data: {"id": "gnss", "x": -0.03273969967186474, "y": -0.006386200334460152, "z": 366.821044921875}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032740, y: -0.006386, z: 366.821045
+Sending GNSS data: {
+    "altitude": 366.821044921875,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03273969967186474,
+    "longitude": -0.006386200334460152
+}
+GNSS data sent successfully.
+Received 235 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": 0.0035828202962875366, "y": 0.0003231540322303772, "z": 9.752050399780273}, "gyroscope": {"x": -0.00041834008879959583, "y": 0.0041282521560788155, "z": -0.0010734446113929152}, "heading_deg": 0.01}
+JSON data parsed successfully.
+Received IMU data: Accel: 0.003583, 0.000323, 9.752050, Gyro: -0.000418, 0.004128, -0.001073, Heading: 0.010000
+Sending IMU data: {
+    "accelerometer": {
+        "x": 0.0035828202962875366,
+        "y": 0.0003231540322303772,
+        "z": 9.752050399780273
+    },
+    "gyroscope": {
+        "x": -0.00041834008879959583,
+        "y": 0.0041282521560788155,
+        "z": -0.0010734446113929152
+    },
+    "heading_deg": 0.01,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03273931806337771, "y": -0.006386200334460152, "z": 366.8201904296875}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032739, y: -0.006386, z: 366.820190
+Sending GNSS data: {
+    "altitude": 366.8201904296875,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03273931806337771,
+    "longitude": -0.006386200334460152
+}
+GNSS data sent successfully.
+Received 232 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.059861041605472565, "y": -0.00952986627817154, "z": 9.830815315246582}, "gyroscope": {"x": 0.0004737426061183214, "y": 0.0026205284520983696, "z": -0.0011554983211681247}, "heading_deg": 0.01}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.059861, -0.009530, 9.830815, Gyro: 0.000474, 0.002621, -0.001155, Heading: 0.010000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.059861041605472565,
+        "y": -0.00952986627817154,
+        "z": 9.830815315246582
+    },
+    "gyroscope": {
+        "x": 0.0004737426061183214,
+        "y": 0.0026205284520983696,
+        "z": -0.0011554983211681247
+    },
+    "heading_deg": 0.01,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03273893426174368, "y": -0.006386200334460152, "z": 366.8192443847656}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032739, y: -0.006386, z: 366.819244
+Sending GNSS data: {
+    "altitude": 366.8192443847656,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03273893426174368,
+    "longitude": -0.006386200334460152
+}
+GNSS data sent successfully.
+Received 232 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.06024264916777611, "y": 0.0004920773208141327, "z": 9.770817756652832}, "gyroscope": {"x": -0.0003758128732442856, "y": 0.003057528752833605, "z": -0.0006200667703524232}, "heading_deg": 0.01}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.060243, 0.000492, 9.770818, Gyro: -0.000376, 0.003058, -0.000620, Heading: 0.010000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.06024264916777611,
+        "y": 0.0004920773208141327,
+        "z": 9.770817756652832
+    },
+    "gyroscope": {
+        "x": -0.0003758128732442856,
+        "y": 0.003057528752833605,
+        "z": -0.0006200667703524232
+    },
+    "heading_deg": 0.01,
+    "id": "imu"
+}
+IMU data sent successfully.
+New connection accepted.
+Received 94 bytes of data.
+Received data: {"id": "gnss", "x": -0.032738546073829866, "y": -0.006386199786172014, "z": 366.8183898925781}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032739, y: -0.006386, z: 366.818390
+Sending GNSS data: {
+    "altitude": 366.8183898925781,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.032738546073829866,
+    "longitude": -0.006386199786172014
+}
+GNSS data sent successfully.
+Received 229 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.06315016001462936, "y": 0.010302100330591202, "z": 9.85079288482666}, "gyroscope": {"x": -0.0010615134378895164, "y": 0.002592554083094001, "z": 0.0004873553989455104}, "heading_deg": 0.01}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.063150, 0.010302, 9.850793, Gyro: -0.001062, 0.002593, 0.000487, Heading: 0.010000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.06315016001462936,
+        "y": 0.010302100330591202,
+        "z": 9.85079288482666
+    },
+    "gyroscope": {
+        "x": -0.0010615134378895164,
+        "y": 0.002592554083094001,
+        "z": 0.0004873553989455104
+    },
+    "heading_deg": 0.01,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 93 bytes of data.
+Received data: {"id": "gnss", "x": -0.03273815569272642, "y": -0.006386199786172014, "z": 366.8175354003906}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032738, y: -0.006386, z: 366.817535
+Sending GNSS data: {
+    "altitude": 366.8175354003906,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.03273815569272642,
+    "longitude": -0.006386199786172014
+}
+GNSS data sent successfully.
+Received 233 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.043133899569511414, "y": -0.009588595479726791, "z": 9.801212310791016}, "gyroscope": {"x": -0.0003970427205786109, "y": 0.0019243555143475533, "z": -0.0009259345824830234}, "heading_deg": 0.0}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.043134, -0.009589, 9.801212, Gyro: -0.000397, 0.001924, -0.000926, Heading: 0.000000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.043133899569511414,
+        "y": -0.009588595479726791,
+        "z": 9.801212310791016
+    },
+    "gyroscope": {
+        "x": -0.0003970427205786109,
+        "y": 0.0019243555143475533,
+        "z": -0.0009259345824830234
+    },
+    "heading_deg": 0.0,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received data length: 94446
+Parsed point cloud with 15741 points.
+Received a stuffed point cloud message with 15741 points and pushed it to the queue.
+Waiting for a new connection...
+Processing input event, point cloud size: 15741
+Output sent successfully with id: pointcloud, length: 251872, point cloud size: 15741
+Received 94 bytes of data.
+Received data: {"id": "gnss", "x": -0.032737760925328985, "y": -0.006386200334460152, "z": 366.8166198730469}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032738, y: -0.006386, z: 366.816620
+Sending GNSS data: {
+    "altitude": 366.8166198730469,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.032737760925328985,
+    "longitude": -0.006386200334460152
+}
+GNSS data sent successfully.
+Received 234 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.22430038452148438, "y": -0.009610407054424286, "z": 9.807456016540527}, "gyroscope": {"x": -0.00016118166968226433, "y": 0.0017897578654810786, "z": -0.0002744095982052386}, "heading_deg": 0.01}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.224300, -0.009610, 9.807456, Gyro: -0.000161, 0.001790, -0.000274, Heading: 0.010000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.22430038452148438,
+        "y": -0.009610407054424286,
+        "z": 9.807456016540527
+    },
+    "gyroscope": {
+        "x": -0.00016118166968226433,
+        "y": 0.0017897578654810786,
+        "z": -0.0002744095982052386
+    },
+    "heading_deg": 0.01,
+    "id": "imu"
+}
+IMU data sent successfully.
+Received 94 bytes of data.
+Received data: {"id": "gnss", "x": -0.032737368351092755, "y": -0.006386200334460152, "z": 366.8157653808594}
+JSON data parsed successfully.
+Received GNSS data: Frame ID: , x: -0.032737, y: -0.006386, z: 366.815765
+Sending GNSS data: {
+    "altitude": 366.8157653808594,
+    "frame_id": "",
+    "id": "gnss",
+    "latitude": -0.032737368351092755,
+    "longitude": -0.006386200334460152
+}
+GNSS data sent successfully.
+Received 233 bytes of data.
+Received data: {"id": "imu", "accelerometer": {"x": -0.045047156512737274, "y": 0.010488700121641159, "z": 9.811201095581055}, "gyroscope": {"x": 0.0009942498290911317, "y": 0.0014133378863334656, "z": -0.00026603092555887997}, "heading_deg": 0.01}
+JSON data parsed successfully.
+Received IMU data: Accel: -0.045047, 0.010489, 9.811201, Gyro: 0.000994, 0.001413, -0.000266, Heading: 0.010000
+Sending IMU data: {
+    "accelerometer": {
+        "x": -0.045047156512737274,
+        "y": 0.010488700121641159,
+        "z": 9.811201095581055

@@ -1,0 +1,15 @@
+2025-04-19T08:11:46.828649Z  INFO spawn_dataflow{dataflow=Descriptor { communication: CommunicationConfig { local: Tcp, remote: Tcp }, deploy: Deploy { machine: None }, nodes: [Node { id: NodeId("gnss"), name: None, description: None, env: None, deploy: Deploy { machine: None }, operators: None, custom: Some(CustomNode { source: "gps_receive/build/drive_dora", args: None, envs: None, build: None, send_stdout_as: None, run_config: NodeRunConfig { inputs: {DataId("tick"): Input { mapping: Timer { interval: 20ms }, queue_size: None }}, outputs: {DataId("DoraNavSatFix"), DataId("DoraQuaternionStamped")} } }), operator: None, path: None, args: None, build: None, send_stdout_as: None, inputs: {}, outputs: {} }] } working_dir="/home/nano/disk/dora_project/hongmeng/dora-hardware/vendors/carla_bridge"}: dora_coordinator::run: successfully spawned dataflow `01964d1a-8909-7825-8640-a43a3297755b`
+2025-04-19T08:11:46.839993Z  INFO dora_coordinator: removed machine id:  from dataflow: 01964d1a-8909-7825-8640-a43a3297755b
+2025-04-19T08:11:50.173192Z  INFO dora_coordinator: successfully retrieved logs for `01964d1a-8909-7825-8640-a43a3297755b/gnss`
+2025-04-19T08:11:52.844945Z  INFO dora_coordinator: successfully retrieved logs for `01964d1a-8909-7825-8640-a43a3297755b/gnss`
+2025-04-19T08:14:26.622493Z  INFO dora_coordinator: Received destroy command
+2025-04-19T08:14:26.623418Z  INFO dora_coordinator: successfully destroyed daemon ``
+2025-04-19T08:14:26.623564Z  INFO dora_coordinator: stopped
+2025-04-19T08:14:29.176037Z  INFO spawn_dataflow{dataflow=Descriptor { communication: CommunicationConfig { local: Tcp, remote: Tcp }, deploy: Deploy { machine: None }, nodes: [Node { id: NodeId("gnss"), name: None, description: None, env: None, deploy: Deploy { machine: None }, operators: None, custom: Some(CustomNode { source: "gps_receive/build/drive_dora", args: None, envs: None, build: None, send_stdout_as: None, run_config: NodeRunConfig { inputs: {DataId("tick"): Input { mapping: Timer { interval: 20ms }, queue_size: None }}, outputs: {DataId("DoraNavSatFix"), DataId("DoraQuaternionStamped")} } }), operator: None, path: None, args: None, build: None, send_stdout_as: None, inputs: {}, outputs: {} }] } working_dir="/home/nano/disk/dora_project/hongmeng/dora-hardware/vendors/carla_bridge"}: dora_coordinator::run: successfully spawned dataflow `01964d1d-0336-7415-a56d-4d81cbc2f390`
+2025-04-19T08:14:32.180455Z  INFO dora_coordinator: successfully retrieved logs for `01964d1d-0336-7415-a56d-4d81cbc2f390/gnss`
+2025-04-19T08:16:20.552584Z  INFO dora_coordinator: successfully send stop dataflow `01964d1d-0336-7415-a56d-4d81cbc2f390` to all daemons
+2025-04-19T08:16:23.330030Z  INFO dora_coordinator: Received destroy command
+2025-04-19T08:16:23.330366Z  INFO dora_coordinator: successfully send stop dataflow `01964d1d-0336-7415-a56d-4d81cbc2f390` to all daemons
+2025-04-19T08:16:23.330694Z  INFO dora_coordinator: successfully destroyed daemon ``
+2025-04-19T08:16:23.330970Z  INFO dora_coordinator: stopped
+2025-04-19T08:16:23.331173Z ERROR dora_coordinator::control: failed to send reply

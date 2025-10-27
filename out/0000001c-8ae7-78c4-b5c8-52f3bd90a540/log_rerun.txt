@@ -1,0 +1,9 @@
+rerun_test
+PATH Loaded 181
+[PATH]SUCCESS to Rerun !! 
+[1970-01-01T00:31:11Z INFO  winit::platform_impl::linux::x11::window] Guessed window scale factor: 1
+[1970-01-01T00:31:11Z WARN  wgpu_hal::vulkan::instance] Unable to find extension: VK_EXT_swapchain_colorspace
+[1970-01-01T00:31:11Z WARN  wgpu_hal::gles::egl] No config found!
+[1970-01-01T00:31:11Z WARN  wgpu_hal::gles::egl] EGL says it can present to the window but not natively
+[1970-01-01T00:31:11Z WARN  wgpu_hal::gles::adapter] Max vertex attribute stride unknown. Assuming it is 2048
+[1970-01-01T00:31:11Z WARN  wgpu_hal::gles::adapter] Max vertex attribute stride unknown. Assuming it is 2048

@@ -1,0 +1,5 @@
+Starting UDP receiver on port 12345
+Dora context initialized successfully.
+Socket created successfully.
+Bind failed: Cannot assign requested address
+Program terminated.

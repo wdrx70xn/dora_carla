@@ -1,0 +1,3 @@
+[ERROR] Initialization failed: IO Exception (2): No such file or directory, file /home/nvidia/serial/src/impl/unix.cc, line 151.
+[INFO] Initializing dora context from environment.
+[INFO] Starting Operator with serial port: /dev/ttyUSB0 and baud: 115200
